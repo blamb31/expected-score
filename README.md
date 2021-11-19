@@ -6,9 +6,8 @@ This is a basketball stat that I've come up with to show the expected score of a
 
 Basic calculation:
 
-singleShotExpectedScore = playerShootingPercentageFromDistanceOfShot * ShotPointValue
-
-gameExpectedScore = sum of all singleShotExpectedScore for a team
+- singleShotExpectedScore = playerShootingPercentageFromDistanceOfShot * ShotPointValue
+- gameExpectedScore = sum of all singleShotExpectedScore for a team
 
 ## Use
 
