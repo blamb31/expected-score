@@ -20,8 +20,8 @@ Argv order:
 4. String, filename of gameStats file to use or gameId to fetch
 
 Example - using a gameId input from the command line
-- index.js jazzShootingNumbers2020-2021 false {{gameId}}
+- node index.js jazzShootingNumbers2020-2021 false {{gameId}}
 
 Example - using a preloaded gameStats file
 
-index.js jazzShootingNumbers2020-2021 true 2021-11-11-jazz-pacers
+- node index.js jazzShootingNumbers2020-2021 true 2021-11-11-jazz-pacers
