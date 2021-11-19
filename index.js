@@ -1,5 +1,5 @@
 
-//Argv order:
+// Argv order:
 // 0. node
 // 1. String, file to run
 // 2. String, shootingNumbers file name
