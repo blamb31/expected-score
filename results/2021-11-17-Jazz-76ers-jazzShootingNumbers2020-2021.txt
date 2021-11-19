@@ -1,0 +1,61 @@
+Expected Score: 122.31700000000005
+Actual Score: 120
+Difference: -2.31700000000005
+Two Pointers Taken: 51
+Three Pointers Taken: 38
+Free Throws Taken: 19
+Total Shots Taken: 108
+Player Scoring: 
+	Donovan Mitchell: 
+		Expected: 11.367000000000003
+		Actual: 11
+		Difference: -0.36700000000000266
+	Mike Conley: 
+		Expected: 7.896000000000002
+		Actual: 10
+		Difference: 2.1039999999999983
+	Hassan Whiteside: 
+		Expected: 7.236000000000001
+		Actual: 8
+		Difference: 0.7639999999999993
+	Jordan Clarkson: 
+		Expected: 18.293
+		Actual: 14
+		Difference: -4.292999999999999
+	Rudy Gobert: 
+		Expected: 6.816000000000001
+		Actual: 6
+		Difference: -0.8160000000000007
+	Bojan Bogdanovic: 
+		Expected: 11.198
+		Actual: 18
+		Difference: 6.802
+	Eric Paschall: 
+		Expected: 3.6020000000000003
+		Actual: 5
+		Difference: 1.3979999999999997
+	Trent Forrest: 
+		Expected: 2.814
+		Actual: 2
+		Difference: -0.8140000000000001
+	Miye Oni: 
+		Expected: 0.91
+		Actual: 2
+		Difference: 1.0899999999999999
+	Udoka Azubuike: 
+		Expected: 1
+		Actual: 2
+		Difference: 1
+	Royce O'Neale: 
+		Expected: 1.113
+		Actual: 0
+		Difference: -1.113
+	Joe Ingles: 
+		Expected: 6.83
+		Actual: 0
+		Difference: -6.83
+	Jared Butler: 
+		Expected: 1.9979999999999998
+		Actual: 3
+		Difference: 1.0020000000000002
+

@@ -1,0 +1,6487 @@
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 8.79,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 23.25,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.85,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.9,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 10.68,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.52,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.27,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 15.77,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 8.04,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.11,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.52,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.87,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 2.91,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    shot_type_desc: 'alley-oop',
+    points: 2,
+    shot_distance: 2.71,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 3.95,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.65,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'reverse',
+    points: 2,
+    shot_distance: 2.17,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 31.94,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.02,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 28,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 4.67,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.44,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 3.24,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 1.58,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 5.02,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Torrey Craig',
+      jersey_number: '13',
+      id: 'c14eba17-879a-461e-9413-bf71a378de6e',
+      sr_id: 'sr:player:1238732',
+      reference: '1628470'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'putback',
+    points: 2,
+    shot_distance: 0.08,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Torrey Craig',
+      jersey_number: '13',
+      id: 'c14eba17-879a-461e-9413-bf71a378de6e',
+      sr_id: 'sr:player:1238732',
+      reference: '1628470'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'turnaround',
+    shot_distance: 8.8,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 2.1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.39,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Torrey Craig',
+      jersey_number: '13',
+      id: 'c14eba17-879a-461e-9413-bf71a378de6e',
+      sr_id: 'sr:player:1238732',
+      reference: '1628470'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'finger roll',
+    points: 2,
+    shot_distance: 3.95,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.99,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 23.26,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.65,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'hook shot',
+    shot_type_desc: 'turnaround',
+    shot_distance: 4.25,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 22.17,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Torrey Craig',
+      jersey_number: '13',
+      id: 'c14eba17-879a-461e-9413-bf71a378de6e',
+      sr_id: 'sr:player:1238732',
+      reference: '1628470'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 17.09,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.97,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 12.16,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.7,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 25.29,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.66,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Goga Bitadze',
+      jersey_number: '88',
+      id: '0c977083-fdde-45f1-9406-60aef2a78846',
+      sr_id: 'sr:player:1497623',
+      reference: '1629048'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 7.28,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 12.07,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.69,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 4.14,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 31.57,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 11.14,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 1.42,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 27.85,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.43,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.96,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 23.34,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 14.77,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 5.03,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 27.19,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 11.01,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 8.92,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 12.92,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'putback',
+    points: 2,
+    shot_distance: 0.08,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 22.56,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 3.84,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 20.69,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 23.34,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.09,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 9.98,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    shot_distance: 25.75,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 14.34,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 7.9,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'putback',
+    points: 2,
+    shot_distance: 0.08,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 4.01,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'fadeaway',
+    points: 2,
+    shot_distance: 9.1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 15.31,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 23.02,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 15.13,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 12.45,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 2.19,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.97,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    shot_type_desc: 'alley-oop',
+    points: 2,
+    shot_distance: 0.93,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.59,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 22.34,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 23.6,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 8.12,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 3.19,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 22.18,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 1.48,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 2.24,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 23.59,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 5.12,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 6.73,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 11.69,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.82,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'fadeaway',
+    points: 2,
+    shot_distance: 5.66,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.66,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.37,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 31.03,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 9,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.18,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    shot_distance: 3.78,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 2.95,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'technical',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 23.4,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 28.47,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 6.64,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 4.82,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'dunk',
+    shot_type_desc: 'alley-oop',
+    shot_distance: 2.83,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.87,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 15.76,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'putback',
+    points: 2,
+    shot_distance: 0.08,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 26.76,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 2.73,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 2.87,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 16.62,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    shot_distance: 25.23,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 25.77,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 23.17,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 6.84,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 1.43,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'driving',
+    shot_distance: 8.27,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 16.82,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 5.88,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.08,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Justin Holiday',
+      jersey_number: '8',
+      id: '05dea31d-f1ff-491b-9f17-8be88b26f413',
+      sr_id: 'sr:player:607728',
+      reference: '203200'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 2.2,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 2.37,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 1.53,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 23.28,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Torrey Craig',
+      jersey_number: '13',
+      id: 'c14eba17-879a-461e-9413-bf71a378de6e',
+      sr_id: 'sr:player:1238732',
+      reference: '1628470'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.29,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 27.96,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Jeremy Lamb',
+      jersey_number: '26',
+      id: '8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe',
+      sr_id: 'sr:player:607662',
+      reference: '203087'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 0.72,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 25.73,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 25.75,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 2.05,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 26.02,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'fadeaway',
+    points: 2,
+    shot_distance: 18.91,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 27.33,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 12.29,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 22.59,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.09,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 3.54,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    shot_type_desc: 'alley-oop',
+    points: 2,
+    shot_distance: 2.21,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 11.03,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_type_desc: 'finger roll',
+    shot_distance: 3.68,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 22.27,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.52,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 3.85,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    shot_distance: 25.6,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 1.67,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Eric Paschall',
+      jersey_number: '0',
+      id: '7a104c6b-0209-4f75-a587-32f017045d52',
+      sr_id: 'sr:player:1171128',
+      reference: '1629672'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    shot_distance: 2.83,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 4.03,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    points: 2,
+    shot_distance: 14.24,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 24.85,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 22.4,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.07,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Donovan Mitchell',
+      jersey_number: '45',
+      id: 'b6dde96e-3748-4cbe-86d2-798d5dffb3c0',
+      sr_id: 'sr:player:1141362',
+      reference: '1628378'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 12.93,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    shot_type_desc: 'turnaround',
+    points: 2,
+    shot_distance: 3.95,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.22,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    shot_distance: 4.33,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 26.96,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    points: 2,
+    shot_distance: 2.94,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.13,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Joe Ingles',
+      jersey_number: '2',
+      id: '5b297372-b2af-445e-a4bc-777982dbc1e3',
+      sr_id: 'sr:player:611966',
+      reference: '204060'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 24.56,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 14.12,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'fadeaway',
+    shot_distance: 16.4,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'block',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Myles Turner',
+      jersey_number: '33',
+      id: '323f9ef8-ecdd-41a7-859e-dd3db48ba913',
+      sr_id: 'sr:player:852046',
+      reference: '1626167'
+    }
+  }
+}
+{
+  stat: {
+    type: 'attemptblocked',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_distance: 1.83,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Rudy Gobert',
+      jersey_number: '27',
+      id: '37fbc3a5-0d10-4e22-803b-baa2ea0cdb12',
+      sr_id: 'sr:player:607808',
+      reference: '203497'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 9.58,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'T.J. McConnell',
+      jersey_number: '9',
+      id: 'e3dfa2a2-6272-4f3f-adf0-dd5dadea9481',
+      sr_id: 'sr:player:852090',
+      reference: '204456'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'technical',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'technical',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    points: 2,
+    shot_distance: 9.91,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'technical',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    shot_distance: 25.37,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'layup',
+    shot_type_desc: 'reverse',
+    shot_distance: 3.77,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'floating',
+    shot_distance: 14.55,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'dunk',
+    points: 2,
+    shot_distance: 2.16,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    points: 3,
+    shot_distance: 27.27,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Domantas Sabonis',
+      jersey_number: '11',
+      id: '22038780-8c50-4211-a99e-656d983e5207',
+      sr_id: 'sr:player:996309',
+      reference: '1627734'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: true,
+    free_throw_type: 'regular',
+    points: 1,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_type_desc: 'step back',
+    three_point_shot: true,
+    shot_distance: 25.52,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Hassan Whiteside',
+      jersey_number: '21',
+      id: '3b8024e6-5872-4ceb-b675-415715527776',
+      sr_id: 'sr:player:611002',
+      reference: '202355'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'technical',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Bojan Bogdanovic',
+      jersey_number: '44',
+      id: '7ff02e19-e829-4e56-9a34-233a71fce76c',
+      sr_id: 'sr:player:608136',
+      reference: '202711'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 12.74,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Chris Duarte',
+      jersey_number: '3',
+      id: '1233bcf7-d653-4a86-b10a-86e3da52bdf0',
+      sr_id: 'sr:player:1882756',
+      reference: '1630537'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'dunk',
+    shot_type_desc: 'putback',
+    shot_distance: 0,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Kelan Martin',
+      jersey_number: '21',
+      id: 'ee25478a-0855-4f35-8e0d-2c4eb3466015',
+      sr_id: 'sr:player:1499773',
+      reference: '1629103'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Mike Conley',
+      jersey_number: '11',
+      id: '460b7264-b98f-483e-b841-59a18c2e4d67',
+      sr_id: 'sr:player:608194',
+      reference: '201144'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 3.33,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'freethrow',
+    made: false,
+    free_throw_type: 'regular',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: "Royce O'Neale",
+      jersey_number: '23',
+      id: '32526c95-bc6e-4d28-a751-c4200904d80b',
+      sr_id: 'sr:player:852134',
+      reference: '1626220'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    three_point_shot: true,
+    shot_distance: 25.08,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jordan Clarkson',
+      jersey_number: '00',
+      id: '03d77214-5780-4715-8df2-13de3af5ea2d',
+      sr_id: 'sr:player:607936',
+      reference: '203903'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: true,
+    shot_type: 'layup',
+    shot_type_desc: 'driving',
+    points: 2,
+    shot_distance: 1.43,
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Jared Butler',
+      jersey_number: '13',
+      id: '0d9cd878-b94e-4daa-9848-dee6d950f1a5',
+      sr_id: 'sr:player:1585682',
+      reference: '1630215'
+    }
+  }
+}
+{
+  stat: {
+    type: 'assist',
+    team: {
+      name: 'Jazz',
+      market: 'Utah',
+      id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3434',
+      reference: '1610612762'
+    },
+    player: {
+      full_name: 'Miye Oni',
+      jersey_number: '81',
+      id: 'eec2714c-72a5-48c8-bc10-d628e2a583f7',
+      sr_id: 'sr:player:1178480',
+      reference: '1629671'
+    }
+  }
+}
+{
+  stat: {
+    type: 'fieldgoal',
+    made: false,
+    shot_type: 'jump shot',
+    shot_distance: 15.88,
+    team: {
+      name: 'Pacers',
+      market: 'Indiana',
+      id: '583ec7cd-fb46-11e1-82cb-f4ce4684ea4c',
+      sr_id: 'sr:team:3419',
+      reference: '1610612754'
+    },
+    player: {
+      full_name: 'Malcolm Brogdon',
+      jersey_number: '7',
+      id: 'f7134fc8-b298-41fd-933d-d0c4a5d8f6ac',
+      sr_id: 'sr:player:996319',
+      reference: '1627763'
+    }
+  }
+}
+{
+  shot: { player: "Royce O'Neale", distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 24.65, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 31.94, shotMade: true }
+}
+{ shot: { player: 'Joe Ingles', distance: 25.29, shotMade: true } }
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 23.34, shotMade: true }
+}
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Joe Ingles', distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 25.52, shotMade: false }
+}
+{ shot: { player: 'Donovan Mitchell', distance: 28, shotMade: false } }
+{ shot: { player: 'Joe Ingles', distance: 25.44, shotMade: false } }
+{ shot: { player: "Royce O'Neale", distance: 23.26, shotMade: false } }
+{ shot: { player: 'Joe Ingles', distance: 26.7, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 25.69, shotMade: false }
+}
+{ shot: { player: 'Mike Conley', distance: 31.57, shotMade: false } }
+{
+  shot: { player: 'Eric Paschall', distance: undefined, shotMade: undefined }
+}
+{ shot: { player: 'Mike Conley', distance: 25.43, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 27.19, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 22.56, shotMade: false }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 25.75, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 23.02, shotMade: false }
+}
+{ shot: { player: "Royce O'Neale", distance: 22.34, shotMade: false } }
+{ shot: { player: "Royce O'Neale", distance: 25.37, shotMade: false } }
+{
+  shot: { player: 'Donovan Mitchell', distance: 28.47, shotMade: false }
+}
+{ shot: { player: "Royce O'Neale", distance: 23.17, shotMade: false } }
+{
+  shot: { player: 'Donovan Mitchell', distance: 25.29, shotMade: false }
+}
+{ shot: { player: 'Mike Conley', distance: 24.52, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 24.85, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 26.22, shotMade: false }
+}
+{ shot: { player: 'Joe Ingles', distance: 25.13, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 25.52, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 25.08, shotMade: false }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 15.77, shotMade: true }
+}
+{ shot: { player: 'Rudy Gobert', distance: 2.87, shotMade: true } }
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Joe Ingles', distance: undefined, shotMade: undefined }
+}
+{ shot: { player: 'Joe Ingles', distance: 3.95, shotMade: true } }
+{ shot: { player: 'Mike Conley', distance: 7.28, shotMade: true } }
+{
+  shot: {
+    player: 'Jordan Clarkson',
+    distance: undefined,
+    shotMade: undefined
+  }
+}
+{ shot: { player: 'Bojan Bogdanovic', distance: 3.1, shotMade: true } }
+{ shot: { player: 'Bojan Bogdanovic', distance: 3.1, shotMade: true } }
+{ shot: { player: 'Donovan Mitchell', distance: 9.1, shotMade: true } }
+{
+  shot: { player: 'Hassan Whiteside', distance: 2.19, shotMade: true }
+}
+{ shot: { player: 'Rudy Gobert', distance: 0.93, shotMade: true } }
+{
+  shot: { player: 'Donovan Mitchell', distance: 1.48, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 5.66, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 6.64, shotMade: true }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: 0.08, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 2.73, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 6.84, shotMade: true }
+}
+{ shot: { player: 'Joe Ingles', distance: 2.2, shotMade: true } }
+{ shot: { player: 'Rudy Gobert', distance: 1.53, shotMade: true } }
+{ shot: { player: 'Rudy Gobert', distance: 0.72, shotMade: true } }
+{
+  shot: {
+    player: 'Jordan Clarkson',
+    distance: undefined,
+    shotMade: undefined
+  }
+}
+{ shot: { player: 'Rudy Gobert', distance: 2.21, shotMade: true } }
+{ shot: { player: 'Eric Paschall', distance: 3.85, shotMade: true } }
+{ shot: { player: 'Eric Paschall', distance: 1.67, shotMade: true } }
+{
+  shot: { player: 'Donovan Mitchell', distance: 3.07, shotMade: true }
+}
+{ shot: { player: 'Jordan Clarkson', distance: 9.91, shotMade: true } }
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: undefined }
+}
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: undefined }
+}
+{ shot: { player: 'Jared Butler', distance: 1.43, shotMade: true } }
+{
+  shot: {
+    player: 'Hassan Whiteside',
+    distance: undefined,
+    shotMade: undefined
+  }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: 3.24, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 8.8, shotMade: false }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 4.25, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 17.09, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: 8.92, shotMade: false }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: 4.01, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 2.24, shotMade: false }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 5.12, shotMade: false }
+}
+{ shot: { player: 'Mike Conley', distance: 11.69, shotMade: false } }
+{ shot: { player: 'Donovan Mitchell', distance: 9, shotMade: false } }
+{
+  shot: { player: 'Donovan Mitchell', distance: 3.78, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 15.76, shotMade: false }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: 16.62, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: 8.27, shotMade: false }
+}
+{ shot: { player: "Royce O'Neale", distance: 5.88, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 3.68, shotMade: false }
+}
+{ shot: { player: 'Rudy Gobert', distance: 4.03, shotMade: false } }
+{
+  shot: { player: 'Jordan Clarkson', distance: 3.77, shotMade: false }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Jordan Clarkson', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Donovan Mitchell', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: "Royce O'Neale", distance: undefined, shotMade: true }
+}
+{
+  shot: { player: "Royce O'Neale", distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: true }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Rudy Gobert', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Mike Conley', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Hassan Whiteside', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: 'Bojan Bogdanovic', distance: undefined, shotMade: false }
+}
+{
+  shot: { player: "Royce O'Neale", distance: undefined, shotMade: false }
+}
+{
+  playerStats: {
+    Pacers: {
+      'Chris Duarte': [Array],
+      'Justin Holiday': [Array],
+      'Domantas Sabonis': [Array],
+      'Malcolm Brogdon': [Array],
+      'Myles Turner': [Array],
+      'Torrey Craig': [Array],
+      'Kelan Martin': [Array],
+      'Jeremy Lamb': [Array],
+      'T.J. McConnell': [Array],
+      'Goga Bitadze': [Array]
+    },
+    Jazz: {
+      'Bojan Bogdanovic': [Array],
+      'Donovan Mitchell': [Array],
+      'Rudy Gobert': [Array],
+      'Joe Ingles': [Array],
+      'Hassan Whiteside': [Array],
+      "Royce O'Neale": [Array],
+      'Mike Conley': [Array],
+      'Jordan Clarkson': [Array],
+      'Eric Paschall': [Array],
+      'Jared Butler': [Array]
+    }
+  },
+  expectedScore: { Jazz: 122.69600000000001 },
+  playerScoring: {
+    'Donovan Mitchell': { expected: 20.102999999999994, actual: 10.567 },
+    'Joe Ingles': { expected: 8.5, actual: 5.125 },
+    'Jordan Clarkson': { expected: 11.428, actual: 1.97 },
+    'Bojan Bogdanovic': { expected: 10, actual: 2.32 },
+    "Royce O'Neale": { expected: 4.7170000000000005, actual: 0 },
+    'Mike Conley': { expected: 6.192, actual: 1.23 },
+    'Rudy Gobert': { expected: 8.952, actual: 7.46 },
+    'Hassan Whiteside': { expected: 5.472, actual: 2.736 },
+    'Eric Paschall': { expected: 2.8, actual: 2.8 },
+    'Jared Butler': { expected: 0.4, actual: 0.4 }
+  },
+  actualScore: 100,
+  difference: -22.696000000000012,
+  twoPointersTaken: 49,
+  threePointersTaken: 32,
+  freeThrowsTaken: 23,
+  totalShotsTaken: 104
+}

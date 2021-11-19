@@ -1,0 +1,107 @@
+{ gameInfo: Promise { <pending> } }
+response {
+  id: '19646f6e-9812-4218-9289-f0340aab4168',
+  status: 'closed',
+  coverage: 'full',
+  scheduled: '2021-11-07T23:00:00+00:00',
+  duration: '2:10',
+  attendance: 13386,
+  lead_changes: 7,
+  times_tied: 5,
+  clock: '00:00',
+  quarter: 4,
+  track_on_court: true,
+  reference: '0022100141',
+  entry_mode: 'WEBSOCKET',
+  sr_id: 'sr:match:28809956',
+  clock_decimal: '00:00',
+  time_zones: { venue: 'US/Eastern', home: 'US/Eastern', away: 'US/Mountain' },
+  home: {
+    name: 'Magic',
+    alias: 'ORL',
+    market: 'Orlando',
+    id: '583ed157-fb46-11e1-82cb-f4ce4684ea4c',
+    points: 107,
+    bonus: true,
+    sr_id: 'sr:team:3437',
+    reference: '1610612753'
+  },
+  away: {
+    name: 'Jazz',
+    alias: 'UTA',
+    market: 'Utah',
+    id: '583ece50-fb46-11e1-82cb-f4ce4684ea4c',
+    points: 100,
+    bonus: false,
+    sr_id: 'sr:team:3434',
+    reference: '1610612762'
+  },
+  periods: [
+    {
+      type: 'quarter',
+      id: 'c3b2bba0-0eda-4908-aac8-b9655fac1983',
+      number: 1,
+      sequence: 1,
+      scoring: [Object],
+      events: [Array]
+    },
+    {
+      type: 'quarter',
+      id: '72c1d195-3f7c-4c10-8577-36e76df2d666',
+      number: 2,
+      sequence: 2,
+      scoring: [Object],
+      events: [Array]
+    },
+    {
+      type: 'quarter',
+      id: 'd9330dc3-27b7-4398-bab9-959a321fb481',
+      number: 3,
+      sequence: 3,
+      scoring: [Object],
+      events: [Array]
+    },
+    {
+      type: 'quarter',
+      id: 'aff50735-cb61-414c-8c7a-a7e72231a109',
+      number: 4,
+      sequence: 4,
+      scoring: [Object],
+      events: [Array]
+    }
+  ],
+  deleted_events: [
+    { id: '0be03d21-7ee9-4860-9b28-d8c818df8b8f' },
+    { id: 'e3f85179-d49d-44ec-bf3f-6f26688291e7' },
+    { id: 'a8ae41aa-1c79-459c-8bc3-ecbdc0c2ad68' },
+    { id: 'daa74a0a-02e2-48fe-a48c-3dc73531f3d2' },
+    { id: 'a7ed511a-38df-4cd5-80c9-dd05209da448' },
+    { id: 'c8ae4da9-41d7-4c4c-8bb8-5edb9bb6da0d' },
+    { id: 'de372f5e-db36-4ca6-8296-22d47c9446f7' },
+    { id: '676baf50-658b-4f1e-b92d-774d0582c1af' },
+    { id: 'f7d4ccc5-400c-43f6-9156-391d52d9ca94' },
+    { id: '199db086-1b9b-4c73-8f12-dde8df83b8bc' },
+    { id: '642ad8a3-7d42-4f5a-a445-3c7bd1dc5d29' },
+    { id: '299bad4d-3cbf-4e9b-97de-a02970c0db03' },
+    { id: 'febb1278-2294-45da-8d6b-7d4b4ca9e7bc' },
+    { id: 'd722ae38-2202-41b3-997f-3a3a378cab1c' },
+    { id: 'b8abe011-447d-4c1e-a976-e3be0be045de' },
+    { id: 'ac368809-adee-4143-aefb-108e3493372e' },
+    { id: '79d57414-24e6-42b6-ba61-7ff89db2c687' },
+    { id: '600aef3f-299f-4158-af76-1d50a15a45e9' },
+    { id: '3b0be10f-570e-4da9-9748-645b25d64013' },
+    { id: '0473b69c-7f68-4361-aae0-d865e6451bd1' },
+    { id: 'd7bc9b8d-5d07-41ce-9a9f-20d7623ee69a' },
+    { id: '215aaa6c-c932-4832-a4b3-2d266c5102ae' },
+    { id: '2f16933d-c133-4e6a-84e3-fa0f2c4f6ee3' },
+    { id: '0fd4ed71-58eb-4a19-af96-864c6be228a5' },
+    { id: 'eb8b1b1e-9edd-45ba-8e8d-bd1c8dcf7b91' },
+    { id: '753065bf-5f15-4cb0-9176-37f80d9604c3' },
+    { id: 'f8eba157-fbd9-4d75-8b2d-656c5ef9a3e1' },
+    { id: '571acd53-1f02-4ff0-9e1e-07d19ce0d8b3' },
+    { id: 'fb0f4696-bca1-4166-a004-be677e907600' },
+    { id: '969361f3-71ff-46c2-aa6a-649bd7d5189f' },
+    { id: '2ab84b5d-0fcf-4eff-a89b-97083a1e7ef5' },
+    { id: 'dc53c2a0-d950-4529-8a0a-6ced5335c192' }
+  ]
+}

@@ -1,0 +1,580 @@
+{ teams: { home: 'Utah Jazz', away: 'Oklahoma City Thunder' } }
+
+{ teams: { home: 'Sacramento Kings', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Denver Nuggets' } }
+{ teams: { home: 'Houston Rockets', away: 'Utah Jazz' } }
+{ teams: { home: 'Chicago Bulls', away: 'Utah Jazz' } }
+{ teams: { home: 'Milwaukee Bucks', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Sacramento Kings' } }
+{ teams: { home: 'Atlanta Hawks', away: 'Utah Jazz' } }
+{ teams: { home: 'Miami Heat', away: 'Utah Jazz' } }
+{ teams: { home: 'Orlando Magic', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Atlanta Hawks' } }
+{ teams: { home: 'Utah Jazz', away: 'Indiana Pacers' } }
+{ teams: { home: 'Utah Jazz', away: 'Miami Heat' } }
+{ teams: { home: 'Utah Jazz', away: 'Philadelphia 76ers' } }
+{ teams: { home: 'Utah Jazz', away: 'Toronto Raptors' } }
+
+{ teams: { home: 'Sacramento Kings', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Memphis Grizzlies' } }
+{ teams: { home: 'Oklahoma City Thunder', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'New Orleans Pelicans' } }
+{ teams: { home: 'Utah Jazz', away: 'New Orleans Pelicans' } }
+{ teams: { home: 'Utah Jazz', away: 'Portland Trail Blazers' } }
+{ teams: { home: 'Utah Jazz', away: 'Boston Celtics' } }
+{ teams: { home: 'Cleveland Cavaliers', away: 'Utah Jazz' } }
+{ teams: { home: 'Minnesota Timberwolves', away: 'Utah Jazz' } }
+{ teams: { home: 'Philadelphia 76ers', away: 'Utah Jazz' } }
+{ teams: { home: 'Washington Wizards', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'LA Clippers' } }
+{ teams: { home: 'Utah Jazz', away: 'San Antonio Spurs' } }
+{ teams: { home: 'Utah Jazz', away: 'Washington Wizards' } }
+{ teams: { home: 'Utah Jazz', away: 'Charlotte Hornets' } }
+{ teams: { home: 'Utah Jazz', away: 'Minnesota Timberwolves' } }
+{ teams: { home: 'Utah Jazz', away: 'Dallas Mavericks' } }
+{ teams: { home: 'San Antonio Spurs', away: 'Utah Jazz' } }
+{ teams: { home: 'Portland Trail Blazers', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Minnesota Timberwolves' } }
+{ teams: { home: 'Utah Jazz', away: 'Golden State Warriors' } }
+{ teams: { home: 'New Orleans Pelicans', away: 'Utah Jazz' } }
+{ teams: { home: 'Denver Nuggets', away: 'Utah Jazz' } }
+{ teams: { home: 'Toronto Raptors', away: 'Utah Jazz' } }
+{ teams: { home: 'Indiana Pacers', away: 'Utah Jazz' } }
+{ teams: { home: 'Detroit Pistons', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Cleveland Cavaliers' } }
+{ teams: { home: 'Denver Nuggets', away: 'Utah Jazz' } }
+{ teams: { home: 'Los Angeles Lakers', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Houston Rockets' } }
+{ teams: { home: 'Utah Jazz', away: 'Detroit Pistons' } }
+{ teams: { home: 'Golden State Warriors', away: 'Utah Jazz' } }
+{ teams: { home: 'Phoenix Suns', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Phoenix Suns' } }
+{ teams: { home: 'Memphis Grizzlies', away: 'Utah Jazz' } }
+{ teams: { home: 'Minnesota Timberwolves', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Denver Nuggets' } }
+{ teams: { home: 'Utah Jazz', away: 'Brooklyn Nets' } }
+{ teams: { home: 'Utah Jazz', away: 'New York Knicks' } }
+{ teams: { home: 'Utah Jazz', away: 'Golden State Warriors' } }
+{ teams: { home: 'Utah Jazz', away: 'Orlando Magic' } }
+{ teams: { home: 'Utah Jazz', away: 'Houston Rockets' } }
+{ teams: { home: 'Los Angeles Lakers', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Dallas Mavericks' } }
+{ teams: { home: 'Phoenix Suns', away: 'Utah Jazz' } }
+{ teams: { home: 'Houston Rockets', away: 'Utah Jazz' } }
+{ teams: { home: 'New Orleans Pelicans', away: 'Utah Jazz' } }
+{ teams: { home: 'Oklahoma City Thunder', away: 'Utah Jazz' } }
+{ teams: { home: 'Dallas Mavericks', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Portland Trail Blazers' } }
+{ teams: { home: 'San Antonio Spurs', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Sacramento Kings' } }
+{ teams: { home: 'Utah Jazz', away: 'Milwaukee Bucks' } }
+{ teams: { home: 'Utah Jazz', away: 'Chicago Bulls' } }
+{ teams: { home: 'Utah Jazz', away: 'LA Clippers' } }
+{ teams: { home: 'New York Knicks', away: 'Utah Jazz' } }
+{ teams: { home: 'Brooklyn Nets', away: 'Utah Jazz' } }
+{ teams: { home: 'Boston Celtics', away: 'Utah Jazz' } }
+{ teams: { home: 'Charlotte Hornets', away: 'Utah Jazz' } }
+{ teams: { home: 'Dallas Mavericks', away: 'Utah Jazz' } }
+{ teams: { home: 'LA Clippers', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Los Angeles Lakers' } }
+{ teams: { home: 'Golden State Warriors', away: 'Utah Jazz' } }
+{ teams: { home: 'Utah Jazz', away: 'Memphis Grizzlies' } }
+{ teams: { home: 'Utah Jazz', away: 'Oklahoma City Thunder' } }
+{ teams: { home: 'Utah Jazz', away: 'Phoenix Suns' } }
+{ teams: { home: 'Portland Trail Blazers', away: 'Utah Jazz' } }
+{
+  jazzGames: [
+    {
+      gameNum: 1,
+      teams: [Object],
+      id: '8fddc7f8-c12d-4158-92e3-fc55e28afdca',
+      date: '2021-10-21T01:00:00Z'
+    },
+    {
+      gameNum: 2,
+      teams: [Object],
+      id: 'a6a8d6ba-2791-4dff-bb49-23538a8b7d10',
+      date: '2021-10-23T02:00:00Z'
+    },
+    {
+      gameNum: 3,
+      teams: [Object],
+      id: '1f163718-abd3-4377-ad45-1d0af9b0787b',
+      date: '2021-10-27T02:00:00Z'
+    },
+    {
+      gameNum: 4,
+      teams: [Object],
+      id: '17f24416-2fe8-4f0e-a4cb-9eedb247b512',
+      date: '2021-10-29T00:00:00Z'
+    },
+    {
+      gameNum: 5,
+      teams: [Object],
+      id: 'f871aa9f-afaa-439a-87f1-9204968f9de6',
+      date: '2021-10-31T00:00:00Z'
+    },
+    {
+      gameNum: 6,
+      teams: [Object],
+      id: '0b890f5b-4ed1-44ad-bb81-029641fa4c8d',
+      date: '2021-10-31T23:00:00Z'
+    },
+    {
+      gameNum: 7,
+      teams: [Object],
+      id: '798dd669-8de0-40d8-8972-2a2f82459371',
+      date: '2021-11-03T01:00:00Z'
+    },
+    {
+      gameNum: 8,
+      teams: [Object],
+      id: '7e3ab0e3-8a1c-4eef-a035-362e648cc54e',
+      date: '2021-11-04T23:30:00Z'
+    },
+    {
+      gameNum: 9,
+      teams: [Object],
+      id: '7c1a74b7-f689-4345-ad37-15cb6f54352c',
+      date: '2021-11-06T23:30:00Z'
+    },
+    {
+      gameNum: 10,
+      teams: [Object],
+      id: '19646f6e-9812-4218-9289-f0340aab4168',
+      date: '2021-11-07T23:00:00Z'
+    },
+    {
+      gameNum: 11,
+      teams: [Object],
+      id: '4f083788-9b58-4297-bd99-dc70204df2f1',
+      date: '2021-11-10T02:00:00Z'
+    },
+    {
+      gameNum: 12,
+      teams: [Object],
+      id: '23cbf283-8ae7-49ae-a800-38c8ec9365bf',
+      date: '2021-11-12T02:00:00Z'
+    },
+    {
+      gameNum: 13,
+      teams: [Object],
+      id: 'ed771d6d-25bf-41ff-8732-f1c4eff13cd8',
+      date: '2021-11-13T22:00:00Z'
+    },
+    {
+      gameNum: 14,
+      teams: [Object],
+      id: '109a679e-1927-4772-977a-0f2b44de48ef',
+      date: '2021-11-17T03:00:00Z'
+    },
+    {
+      gameNum: 15,
+      teams: [Object],
+      id: '5e60d07a-7c58-492f-967e-93748cdf5ea1',
+      date: '2021-11-19T02:00:00Z'
+    },
+    {
+      gameNum: 16,
+      teams: [Object],
+      id: '9c2b1805-557e-410f-8855-6830b515af75',
+      date: '2021-11-21T03:00:00Z'
+    },
+    {
+      gameNum: 17,
+      teams: [Object],
+      id: 'd35c7a7f-0db1-4562-8572-3c6ce9410d79',
+      date: '2021-11-23T02:00:00Z'
+    },
+    {
+      gameNum: 18,
+      teams: [Object],
+      id: 'acf9f1b6-c25b-417e-9e72-4b21db026d76',
+      date: '2021-11-25T01:00:00Z'
+    },
+    {
+      gameNum: 19,
+      teams: [Object],
+      id: 'c5857502-08ac-448b-97c1-59acf7edc8ee',
+      date: '2021-11-27T02:00:00Z'
+    },
+    {
+      gameNum: 20,
+      teams: [Object],
+      id: 'c34d1219-52fc-404c-9d4b-43950fd4b59a',
+      date: '2021-11-28T02:00:00Z'
+    },
+    {
+      gameNum: 21,
+      teams: [Object],
+      id: '46a10e26-5f59-4952-9010-e66cea6e4a4c',
+      date: '2021-11-30T02:00:00Z'
+    },
+    {
+      gameNum: 22,
+      teams: [Object],
+      id: '3d031ec5-051a-4fc0-9b97-8e3f90742ebf',
+      date: '2021-12-04T02:00:00Z'
+    },
+    {
+      gameNum: 23,
+      teams: [Object],
+      id: '7d12388d-78e4-4a46-b2a3-3cac33278a9a',
+      date: '2021-12-05T20:30:00Z'
+    },
+    {
+      gameNum: 24,
+      teams: [Object],
+      id: '61bb6573-a512-4625-b4dd-b2ce091da1cf',
+      date: '2021-12-09T01:00:00Z'
+    },
+    {
+      gameNum: 25,
+      teams: [Object],
+      id: '344f8ceb-703a-42af-ae80-321e284256ab',
+      date: '2021-12-10T00:00:00Z'
+    },
+    {
+      gameNum: 26,
+      teams: [Object],
+      id: '390b6dbc-28cc-4861-a981-7ef4177327d8',
+      date: '2021-12-12T00:00:00Z'
+    },
+    {
+      gameNum: 27,
+      teams: [Object],
+      id: 'da50b973-5bed-43e9-8f84-2727c9e460a9',
+      date: '2021-12-16T03:00:00Z'
+    },
+    {
+      gameNum: 28,
+      teams: [Object],
+      id: '04bb0b73-adca-4e8d-b142-544cbb6cdd93',
+      date: '2021-12-18T02:00:00Z'
+    },
+    {
+      gameNum: 29,
+      teams: [Object],
+      id: 'a569696d-f2b7-427e-b39c-6185d59ed47d',
+      date: '2021-12-19T02:00:00Z'
+    },
+    {
+      gameNum: 30,
+      teams: [Object],
+      id: '827b6657-de42-46ca-9228-86ef1b7692b9',
+      date: '2021-12-21T02:00:00Z'
+    },
+    {
+      gameNum: 31,
+      teams: [Object],
+      id: 'c4ac1cd3-bc7b-451d-9f41-5dc532679ac9',
+      date: '2021-12-24T02:00:00Z'
+    },
+    {
+      gameNum: 32,
+      teams: [Object],
+      id: '4d385513-0220-4db5-a139-4501d39a16b4',
+      date: '2021-12-26T03:30:00Z'
+    },
+    {
+      gameNum: 33,
+      teams: [Object],
+      id: '80d8a1bc-6143-44d6-ae20-641f0695e8e3',
+      date: '2021-12-28T01:30:00Z'
+    },
+    {
+      gameNum: 34,
+      teams: [Object],
+      id: '7241ca68-02fc-492b-b815-c8c0dc4b61f3',
+      date: '2021-12-30T03:00:00Z'
+    },
+    {
+      gameNum: 35,
+      teams: [Object],
+      id: 'da9ab64d-618a-46fd-959a-ed281507c4cc',
+      date: '2022-01-01T02:00:00Z'
+    },
+    {
+      gameNum: 36,
+      teams: [Object],
+      id: '1692f6e1-12a7-46a1-9794-d35fee725b90',
+      date: '2022-01-02T02:00:00Z'
+    },
+    {
+      gameNum: 37,
+      teams: [Object],
+      id: '09ba5e76-576b-4fd6-9f62-393ef154a4a3',
+      date: '2022-01-04T01:00:00Z'
+    },
+    {
+      gameNum: 38,
+      teams: [Object],
+      id: '1f88ed38-5e48-450d-bf8a-8df165db23c7',
+      date: '2022-01-06T03:00:00Z'
+    },
+    {
+      gameNum: 39,
+      teams: [Object],
+      id: '49e55f19-e803-4df1-906f-3f8ebc83e008',
+      date: '2022-01-08T00:30:00Z'
+    },
+    {
+      gameNum: 40,
+      teams: [Object],
+      id: '910e20fc-e70c-4cc3-9440-74d6e0994d05',
+      date: '2022-01-09T00:00:00Z'
+    },
+    {
+      gameNum: 41,
+      teams: [Object],
+      id: 'ae1e42ae-38ba-4237-9014-4599f84cee2a',
+      date: '2022-01-11T00:00:00Z'
+    },
+    {
+      gameNum: 42,
+      teams: [Object],
+      id: 'bf101998-5aed-4658-9ed0-a85e2859fff3',
+      date: '2022-01-13T02:00:00Z'
+    },
+    {
+      gameNum: 43,
+      teams: [Object],
+      id: '0f05eb60-d3c1-4acc-8f29-e577bb23f8b6',
+      date: '2022-01-17T01:00:00Z'
+    },
+    {
+      gameNum: 44,
+      teams: [Object],
+      id: 'b6ff0fcf-281d-42fe-82e4-cff2d9cb5320',
+      date: '2022-01-18T03:30:00Z'
+    },
+    {
+      gameNum: 45,
+      teams: [Object],
+      id: 'e2733156-906e-453e-826a-4548666df264',
+      date: '2022-01-20T02:00:00Z'
+    },
+    {
+      gameNum: 46,
+      teams: [Object],
+      id: '23b4dfc8-fe0b-489a-bdd0-6067882caba8',
+      date: '2022-01-22T02:00:00Z'
+    },
+    {
+      gameNum: 47,
+      teams: [Object],
+      id: '0d6477a5-8738-4210-ad61-9133a76b4b1c',
+      date: '2022-01-24T01:30:00Z'
+    },
+    {
+      gameNum: 48,
+      teams: [Object],
+      id: 'e1318f2a-2fa1-4d0f-b7d2-f37c99725811',
+      date: '2022-01-25T02:00:00Z'
+    },
+    {
+      gameNum: 49,
+      teams: [Object],
+      id: '8d615116-86d3-4482-b80e-a3dbc9ab1833',
+      date: '2022-01-27T03:00:00Z'
+    },
+    {
+      gameNum: 50,
+      teams: [Object],
+      id: '127f4f19-334f-4981-8d7e-7f4cca419e4e',
+      date: '2022-01-29T01:00:00Z'
+    },
+    {
+      gameNum: 51,
+      teams: [Object],
+      id: 'ef4dbc98-ea3c-4741-b3d0-9a5b104cbf03',
+      date: '2022-01-31T01:00:00Z'
+    },
+    {
+      gameNum: 52,
+      teams: [Object],
+      id: 'dcc0c9c6-3ae1-4c69-b6b1-07b12768e6fa',
+      date: '2022-02-03T03:00:00Z'
+    },
+    {
+      gameNum: 53,
+      teams: [Object],
+      id: 'facdf7cf-bd85-42d9-811a-65ee6806cc6d',
+      date: '2022-02-05T02:00:00Z'
+    },
+    {
+      gameNum: 54,
+      teams: [Object],
+      id: '86b8df71-2768-4c01-a063-6ad5c8731740',
+      date: '2022-02-08T02:00:00Z'
+    },
+    {
+      gameNum: 55,
+      teams: [Object],
+      id: '392aaa92-afaf-4f3f-9d97-d372c9815b10',
+      date: '2022-02-10T03:00:00Z'
+    },
+    {
+      gameNum: 56,
+      teams: [Object],
+      id: 'fcd6f4d0-0075-4a2e-a0b0-162b7138755d',
+      date: '2022-02-12T02:00:00Z'
+    },
+    {
+      gameNum: 57,
+      teams: [Object],
+      id: '9fa5a954-24cd-49cd-ae80-c0f6e2be919f',
+      date: '2022-02-15T02:00:00Z'
+    },
+    {
+      gameNum: 58,
+      teams: [Object],
+      id: 'a28729b6-f3f8-41c8-a04b-38f37367f267',
+      date: '2022-02-17T03:00:00Z'
+    },
+    {
+      gameNum: 59,
+      teams: [Object],
+      id: '73d40627-9933-4b11-80f6-f7856d8af214',
+      date: '2022-02-26T02:00:00Z'
+    },
+    {
+      gameNum: 60,
+      teams: [Object],
+      id: 'd41269e1-fdd6-49b2-a752-a6d72538e528',
+      date: '2022-02-27T20:30:00Z'
+    },
+    {
+      gameNum: 61,
+      teams: [Object],
+      id: 'cd30239b-88aa-4ec5-953e-e262d9b5e7d7',
+      date: '2022-03-03T01:00:00Z'
+    },
+    {
+      gameNum: 62,
+      teams: [Object],
+      id: '01c8b426-c20b-4ddc-9412-fa807c7f0db1',
+      date: '2022-03-05T01:00:00Z'
+    },
+    {
+      gameNum: 63,
+      teams: [Object],
+      id: '58423c45-c875-4e23-8050-6d21d7db3e29',
+      date: '2022-03-07T00:00:00Z'
+    },
+    {
+      gameNum: 64,
+      teams: [Object],
+      id: '0c114783-fdb9-4509-94e4-4f3e19f4321f',
+      date: '2022-03-08T01:30:00Z'
+    },
+    {
+      gameNum: 65,
+      teams: [Object],
+      id: '64d35bbb-8af6-4c4f-a609-4adc03159eae',
+      date: '2022-03-10T03:00:00Z'
+    },
+    {
+      gameNum: 66,
+      teams: [Object],
+      id: 'aa521243-9dc6-4f3d-b060-9eb51a073ad1',
+      date: '2022-03-12T01:30:00Z'
+    },
+    {
+      gameNum: 67,
+      teams: [Object],
+      id: 'f38ee020-7766-4830-a82f-6f78936f037b',
+      date: '2022-03-13T03:00:00Z'
+    },
+    {
+      gameNum: 68,
+      teams: [Object],
+      id: '565bec61-2fd5-4773-ac85-c1442993fd44',
+      date: '2022-03-15T02:30:00Z'
+    },
+    {
+      gameNum: 69,
+      teams: [Object],
+      id: '7c58d4a6-f762-48a3-a90e-f0477d50306d',
+      date: '2022-03-17T01:00:00Z'
+    },
+    {
+      gameNum: 70,
+      teams: [Object],
+      id: '1daf8e24-0ed7-4f7d-91eb-e9e9ff9e52d5',
+      date: '2022-03-19T01:00:00Z'
+    },
+    {
+      gameNum: 71,
+      teams: [Object],
+      id: '6a0dd983-4096-4b9e-b3d9-9dc4e3dfa3de',
+      date: '2022-03-20T23:30:00Z'
+    },
+    {
+      gameNum: 72,
+      teams: [Object],
+      id: 'a8cd9a58-a236-43ab-be74-73dc5b2c6cbd',
+      date: '2022-03-21T23:30:00Z'
+    },
+    {
+      gameNum: 73,
+      teams: [Object],
+      id: '5af74ced-c013-42e9-854f-62f065636e74',
+      date: '2022-03-23T23:30:00Z'
+    },
+    {
+      gameNum: 74,
+      teams: [Object],
+      id: 'b736c701-2336-4f6c-abdd-3f8b40c84132',
+      date: '2022-03-25T23:00:00Z'
+    },
+    {
+      gameNum: 75,
+      teams: [Object],
+      id: '6e8b5f9b-6347-492a-9058-bbe0905ea43d',
+      date: '2022-03-27T23:30:00Z'
+    },
+    {
+      gameNum: 76,
+      teams: [Object],
+      id: 'd94cad95-d27f-4043-82ae-4f4acb3f7dfd',
+      date: '2022-03-30T02:00:00Z'
+    },
+    {
+      gameNum: 77,
+      teams: [Object],
+      id: 'fde7ad1c-c28a-4071-8edd-e85383733144',
+      date: '2022-04-01T02:00:00Z'
+    },
+    {
+      gameNum: 78,
+      teams: [Object],
+      id: '1fac7d16-210c-4e44-a2ad-f3fe38b400e1',
+      date: '2022-04-03T00:30:00Z'
+    },
+    {
+      gameNum: 79,
+      teams: [Object],
+      id: 'c64fc202-168f-45d6-b918-e0fdd53952b1',
+      date: '2022-04-06T01:00:00Z'
+    },
+    {
+      gameNum: 80,
+      teams: [Object],
+      id: '2cab5800-2d39-4d6f-9484-cc8e14fc3984',
+      date: '2022-04-07T01:00:00Z'
+    },
+    {
+      gameNum: 81,
+      teams: [Object],
+      id: '836c41eb-2cf4-4bf4-a3e7-dda558e4b510',
+      date: '2022-04-09T01:30:00Z'
+    },
+    {
+      gameNum: 82,
+      teams: [Object],
+      id: '21a440a5-1083-4213-94ce-8b689ae3d69b',
+      date: '2022-04-10T17:00:00Z'
+    }
+  ]
+}
