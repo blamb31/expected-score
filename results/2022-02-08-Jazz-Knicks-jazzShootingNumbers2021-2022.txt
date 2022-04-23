@@ -1,0 +1,56 @@
+Expected Score: 122.411
+Actual Score: 113
+Difference: -9.411000000000001
+Opponent Score: 104
+Game Outcome: Win
+Two Pointers Taken: 45
+Three Pointers Taken: 48
+Free Throws Taken: 27
+Total Shots Taken: 120
+Player Scoring: 
+	Mike Conley: 
+		Shots Taken: 23
+		Expected: 23.287999999999997
+		Actual: 18
+		Difference: -5.287999999999997
+	Bojan Bogdanovic: 
+		Shots Taken: 20
+		Expected: 20.564000000000004
+		Actual: 20
+		Difference: -0.5640000000000036
+	Donovan Mitchell: 
+		Shots Taken: 32
+		Expected: 32.439
+		Actual: 32
+		Difference: -0.43900000000000006
+	Royce O'Neale: 
+		Shots Taken: 8
+		Expected: 10.152
+		Actual: 6
+		Difference: -4.151999999999999
+	Trent Forrest: 
+		Shots Taken: 6
+		Expected: 4.92
+		Actual: 4
+		Difference: -0.9199999999999999
+	Hassan Whiteside: 
+		Shots Taken: 5
+		Expected: 3.402
+		Actual: 3
+		Difference: -0.40200000000000014
+	Eric Paschall: 
+		Shots Taken: 6
+		Expected: 5.975999999999999
+		Actual: 7
+		Difference: 1.024000000000001
+	Jordan Clarkson: 
+		Shots Taken: 13
+		Expected: 12.85
+		Actual: 16
+		Difference: 3.1500000000000004
+	Udoka Azubuike: 
+		Shots Taken: 7
+		Expected: 8.82
+		Actual: 7
+		Difference: -1.8200000000000003
+

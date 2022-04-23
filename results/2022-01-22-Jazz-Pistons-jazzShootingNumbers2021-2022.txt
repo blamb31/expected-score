@@ -1,0 +1,56 @@
+Expected Score: 114.63000000000008
+Actual Score: 111
+Difference: -3.6300000000000807
+Opponent Score: 101
+Game Outcome: Win
+Two Pointers Taken: 48
+Three Pointers Taken: 31
+Free Throws Taken: 34
+Total Shots Taken: 113
+Player Scoring: 
+	Bojan Bogdanovic: 
+		Shots Taken: 22
+		Expected: 21.372000000000003
+		Actual: 23
+		Difference: 1.6279999999999966
+	Joe Ingles: 
+		Shots Taken: 9
+		Expected: 9.149999999999999
+		Actual: 5
+		Difference: -4.149999999999999
+	Rudy Gobert: 
+		Shots Taken: 22
+		Expected: 23.04800000000001
+		Actual: 24
+		Difference: 0.9519999999999911
+	Mike Conley: 
+		Shots Taken: 20
+		Expected: 19.522999999999996
+		Actual: 19
+		Difference: -0.5229999999999961
+	Eric Paschall: 
+		Shots Taken: 3
+		Expected: 3.6879999999999997
+		Actual: 3
+		Difference: -0.6879999999999997
+	Jordan Clarkson: 
+		Shots Taken: 18
+		Expected: 18.610999999999997
+		Actual: 20
+		Difference: 1.389000000000003
+	Rudy Gay: 
+		Shots Taken: 7
+		Expected: 7.118
+		Actual: 4
+		Difference: -3.1180000000000003
+	Trent Forrest: 
+		Shots Taken: 7
+		Expected: 6.624
+		Actual: 8
+		Difference: 1.3760000000000003
+	Royce O'Neale: 
+		Shots Taken: 5
+		Expected: 5.496
+		Actual: 5
+		Difference: -0.49600000000000044
+

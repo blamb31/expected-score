@@ -1,0 +1,56 @@
+Expected Score: 96.613
+Actual Score: 108
+Difference: 11.387
+Opponent Score: 122
+Game Outcome: Loss
+Two Pointers Taken: 43
+Three Pointers Taken: 38
+Free Throws Taken: 18
+Total Shots Taken: 99
+Player Scoring: 
+	Trent Forrest: 
+		Shots Taken: 6
+		Expected: 6.472
+		Actual: 6
+		Difference: -0.4720000000000004
+	Jared Butler: 
+		Shots Taken: 19
+		Expected: 18.5
+		Actual: 17
+		Difference: -1.5
+	Eric Paschall: 
+		Shots Taken: 31
+		Expected: 30.671999999999993
+		Actual: 29
+		Difference: -1.6719999999999935
+	Elijah Hughes: 
+		Shots Taken: 16
+		Expected: 16.542
+		Actual: 26
+		Difference: 9.457999999999998
+	Hassan Whiteside: 
+		Shots Taken: 7
+		Expected: 7.566000000000001
+		Actual: 7
+		Difference: -0.5660000000000007
+	Danuel House Jr.: 
+		Shots Taken: 9
+		Expected: 11.069999999999999
+		Actual: 13
+		Difference: 1.9300000000000015
+	Malik Fitts: 
+		Shots Taken: 8
+		Expected: 2.5
+		Actual: 6
+		Difference: 3.5
+	Udoka Azubuike: 
+		Shots Taken: 2
+		Expected: 2.091
+		Actual: 2
+		Difference: -0.09100000000000019
+	Norvel Pelle: 
+		Shots Taken: 1
+		Expected: 1.2
+		Actual: 2
+		Difference: 0.8
+

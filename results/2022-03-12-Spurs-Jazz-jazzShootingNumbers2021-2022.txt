@@ -1,0 +1,61 @@
+Expected Score: 111.37699999999994
+Actual Score: 102
+Difference: -9.376999999999938
+Opponent Score: 104
+Game Outcome: Loss
+Two Pointers Taken: 52
+Three Pointers Taken: 40
+Free Throws Taken: 23
+Total Shots Taken: 115
+Player Scoring: 
+	Danuel House Jr.: 
+		Shots Taken: 10
+		Expected: 9.299999999999999
+		Actual: 9
+		Difference: -0.29999999999999893
+	Donovan Mitchell: 
+		Shots Taken: 23
+		Expected: 25.237
+		Actual: 24
+		Difference: -1.2369999999999983
+	Mike Conley: 
+		Shots Taken: 17
+		Expected: 17.343999999999998
+		Actual: 8
+		Difference: -9.343999999999998
+	Royce O'Neale: 
+		Shots Taken: 8
+		Expected: 9.404
+		Actual: 5
+		Difference: -4.404
+	Nickeil Alexander-Walker: 
+		Shots Taken: 1
+		Expected: 0.728
+		Actual: undefined
+		Difference: NaN
+	Hassan Whiteside: 
+		Shots Taken: 12
+		Expected: 9.051
+		Actual: 13
+		Difference: 3.949
+	Trent Forrest: 
+		Shots Taken: 6
+		Expected: 6.372
+		Actual: 4
+		Difference: -2.372
+	Rudy Gay: 
+		Shots Taken: 8
+		Expected: 6.975
+		Actual: 9
+		Difference: 2.0250000000000004
+	Rudy Gobert: 
+		Shots Taken: 13
+		Expected: 10.421999999999997
+		Actual: 13
+		Difference: 2.578000000000003
+	Jordan Clarkson: 
+		Shots Taken: 17
+		Expected: 16.544
+		Actual: 17
+		Difference: 0.4559999999999995
+

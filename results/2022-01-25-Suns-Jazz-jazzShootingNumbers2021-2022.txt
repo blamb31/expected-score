@@ -1,0 +1,56 @@
+Expected Score: 95.03300000000002
+Actual Score: 109
+Difference: 13.966999999999985
+Opponent Score: 115
+Game Outcome: Loss
+Two Pointers Taken: 50
+Three Pointers Taken: 31
+Free Throws Taken: 22
+Total Shots Taken: 103
+Player Scoring: 
+	Jordan Clarkson: 
+		Shots Taken: 21
+		Expected: 19.937000000000005
+		Actual: 22
+		Difference: 2.0629999999999953
+	Trent Forrest: 
+		Shots Taken: 12
+		Expected: 12.396
+		Actual: 17
+		Difference: 4.603999999999999
+	Rudy Gay: 
+		Shots Taken: 13
+		Expected: 11.883000000000001
+		Actual: 13
+		Difference: 1.116999999999999
+	Udoka Azubuike: 
+		Shots Taken: 1
+		Expected: 1.5
+		Actual: undefined
+		Difference: NaN
+	Danuel House Jr.: 
+		Shots Taken: 18
+		Expected: 14.926
+		Actual: 14
+		Difference: -0.9260000000000002
+	Eric Paschall: 
+		Shots Taken: 11
+		Expected: 10.448999999999996
+		Actual: 14
+		Difference: 3.5510000000000037
+	Jared Butler: 
+		Shots Taken: 9
+		Expected: 8.652
+		Actual: 13
+		Difference: 4.348000000000001
+	Elijah Hughes: 
+		Shots Taken: 5
+		Expected: 4.452
+		Actual: 6
+		Difference: 1.548
+	Hassan Whiteside: 
+		Shots Taken: 13
+		Expected: 10.838
+		Actual: 10
+		Difference: -0.8379999999999992
+

@@ -1,0 +1,56 @@
+Expected Score: 124.71300000000001
+Actual Score: 120
+Difference: -4.713000000000008
+Opponent Score: 116
+Game Outcome: Win
+Two Pointers Taken: 54
+Three Pointers Taken: 36
+Free Throws Taken: 37
+Total Shots Taken: 127
+Player Scoring: 
+	Mike Conley: 
+		Shots Taken: 20
+		Expected: 19.961999999999996
+		Actual: 22
+		Difference: 2.038000000000004
+	Donovan Mitchell: 
+		Shots Taken: 37
+		Expected: 37.017
+		Actual: 33
+		Difference: -4.017000000000003
+	Bojan Bogdanovic: 
+		Shots Taken: 18
+		Expected: 18.663000000000004
+		Actual: 25
+		Difference: 6.336999999999996
+	Royce O'Neale: 
+		Shots Taken: 4
+		Expected: 4.061
+		Actual: 3
+		Difference: -1.061
+	Hassan Whiteside: 
+		Shots Taken: 11
+		Expected: 8.558
+		Actual: 9
+		Difference: 0.44200000000000017
+	Joe Ingles: 
+		Shots Taken: 6
+		Expected: 5.99
+		Actual: 2
+		Difference: -3.99
+	Rudy Gobert: 
+		Shots Taken: 9
+		Expected: 9.53
+		Actual: 10
+		Difference: 0.47000000000000064
+	Jordan Clarkson: 
+		Shots Taken: 15
+		Expected: 15.197
+		Actual: 12
+		Difference: -3.196999999999999
+	Rudy Gay: 
+		Shots Taken: 7
+		Expected: 5.735
+		Actual: 4
+		Difference: -1.7350000000000003
+

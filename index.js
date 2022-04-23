@@ -14,6 +14,7 @@
 
 
 const fs = require('fs');
+require('dotenv')
 
 const main = async () => {
 
@@ -36,51 +37,31 @@ const main = async () => {
     const away = allEvents.away.name
     const date = allEvents.scheduled.slice(0, 10)
     const allEventsList = []
+    let actualScore = 0
+
     allEvents.periods.forEach(period => allEventsList.push(...period.events))
 
-    const acceptedTypes = [
-        'freethrowmade',
-        'freethrowmiss',
-        'threepointmade',
-        'threepointmiss',
-        'twopointmade',
-        'twopointmiss',
-    ]
+    const eventsWithStats = allEventsList.filter(event => event?.statistics?.length > 0);
+    const allStats = []
+    eventsWithStats.forEach(e => allStats.push(...e.statistics));
 
-    const allStats = allEventsList.filter(event => event.statistics && acceptedTypes.includes(event.event_type));
-
-    allStats.sort((a, b) => a.wall_clock - b.wall_clock)
+    const filteredStats = allStats.filter(stat => ['fieldgoal', 'freethrow'].includes(stat.type))
 
     const playerStats = {}
     const shotTypes = {}
 
-    allStats.forEach(event => {
-        if (!playerStats[event.statistics[0].team.name]) {
-            playerStats[event.statistics[0].team.name] = {}
+    filteredStats.forEach(event => {
+        console.log({ player: event.player, event })
+        if (!playerStats[event.team.name]) {
+            playerStats[event.team.name] = {}
         }
-        event.statistics.forEach(stat => {
-            if (stat.shot_type || stat.free_throw_type) {
-                if (!playerStats[stat.team.name][stat.player.full_name]) {
-                    playerStats[stat.team.name][stat.player.full_name] = [event]
-                } else {
-                    playerStats[stat.team.name][stat.player.full_name].push(event)
-                }
-            }
-        })
-
-
-
-        if (!shotTypes[event.statistics[0].team.name]) {
-            shotTypes[event.statistics[0].team.name] = {}
+        if (!playerStats[event.team.name][event.player.full_name]) {
+            playerStats[event.team.name][event.player.full_name] = [event]
         } else {
-            if (!shotTypes[event.statistics[0].team.name][event.event_type]) {
-                shotTypes[event.statistics[0].team.name][event.event_type] = [{ player: event.statistics[0].player.full_name, distance: event.statistics[0].shot_distance, shotMade: event.statistics[0].made }]
-            } else {
-                shotTypes[event.statistics[0].team.name][event.event_type].push({ player: event.statistics[0].player.full_name, distance: event.statistics[0].shot_distance, shotMade: event.statistics[0].made })
-            }
+            playerStats[event.team.name][event.player.full_name].push(event)
         }
-
     })
+
 
     const calculateOtherTeam = false
     const expectedScore = {}
@@ -90,107 +71,211 @@ const main = async () => {
     let freeThrowsTaken = 0
     let totalShotsTaken = 0
 
-    for (let team in shotTypes) {
+    for (let team in playerStats) {
         if (team === 'Jazz' || calculateOtherTeam) {
             expectedScore[team] = 0
-            for (let shotType in shotTypes[team]) {
-                for (let shot of shotTypes[team][shotType]) {
+            for (let player in playerStats[team]) {
+                for (let shot of playerStats[team][player]) {
+                    // console.log({ player: shot.player, player, shotMade: shot.shotMade, distance: shot.distance })
                     totalShotsTaken++
                     let shotValue = 0
-                    if (shotType.includes('two')) {
-                        twoPointersTaken++
-                        shotValue = 2
-                    } else if (shotType.includes('three')) {
+                    if (shot.three_point_shot) {
                         threePointersTaken++
                         shotValue = 3
-                    } else {
+                    } else if (shot.type === 'freethrow') {
                         freeThrowsTaken++
                         shotValue = 1
-                    }
-                    if (!shot.distance) {
-                        expectedScore[team] += (playerShootingPercentages[team][shot.player]['ft'] / 100) * shotValue
                     } else {
-                        if (shot.distance > 0 && shot.distance <= 5) {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_0_4'] / 100) * shotValue
-                            expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
+                        twoPointersTaken++
+                        shotValue = 2
+
+                    }
+
+
+                    if (shot.type === 'freethrow') {
+                        expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['ft'] / 100) * shotValue
+
+                        expectedScore[team] += expectedPoints
+                        if (!playerScoring[shot.player.full_name]) {
+                            playerScoring[shot.player.full_name] = {}
+                        }
+                        if (playerScoring[shot.player.full_name].expected) {
+                            playerScoring[shot.player.full_name].expected += expectedPoints
+                        } else {
+                            playerScoring[shot.player.full_name]['expected'] = expectedPoints
+                        }
+                        if (shot.made) {
+                            actualScore += shotValue
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
+                            }
+                            if (!playerScoring[shot.player.full_name].actual) {
+                                playerScoring[shot.player.full_name]['actual'] = shotValue
                             } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                                playerScoring[shot.player.full_name].actual += shotValue
+
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
-                            }
-                        } else if (shot.distance > 5 && shot.distance <= 10) {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_5_9'] / 100) * shotValue
+                        }
+                    } else {
+                        if (shot.shot_distance > 0 && shot.shot_distance <= 4) {
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_0_4'] / 100) * shotValue
                             expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
+                            }
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
                             } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
                             }
-                        } else if (shot.distance > 10 && shot.distance <= 15) {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_10_14'] / 100) * shotValue
+                        } else if (shot.shot_distance > 4 && shot.shot_distance <= 9) {
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_5_9'] / 100) * shotValue
                             expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
+                            }
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
                             } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
                             }
-                        } else if (shot.distance > 15 && shot.distance <= 20) {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_15_19'] / 100) * shotValue
+                        } else if (shot.shot_distance > 9 && shot.shot_distance <= 14) {
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_10_14'] / 100) * shotValue
                             expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
+                            }
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
                             } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
                             }
-                        } else if (shot.distance > 20 && shot.distance <= 25) {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_20_24'] / 100) * shotValue
+                        } else if (shot.shot_distance > 14 && shot.shot_distance <= 19) {
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_15_19'] / 100) * shotValue
                             expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
-                            } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
+                            } else {
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
+                            }
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
+                            }
+                        } else if (shot.shot_distance > 19 && shot.shot_distance <= 24) {
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_20_24'] / 100) * shotValue
+                            expectedScore[team] += expectedPoints
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
+                            }
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
+                            } else {
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
+                            }
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
                             }
                         } else {
-                            const expectedPoints = (playerShootingPercentages[team][shot.player]['_25_29'] / 100) * shotValue
+                            const expectedPoints = (playerShootingPercentages[team][shot.player.full_name]['_25_29'] / 100) * shotValue
                             expectedScore[team] += expectedPoints
-                            if (playerScoring[shot.player]) {
-                                playerScoring[shot.player].expected += expectedPoints
-                            } else {
-                                playerScoring[shot.player] = { expected: expectedPoints, actual: 0 }
+                            if (!playerScoring[shot.player.full_name]) {
+                                playerScoring[shot.player.full_name] = {}
                             }
-                            if (shot.shotMade) {
-                                playerScoring[shot.player].actual += shotValue
+                            if (playerScoring[shot.player.full_name].expected) {
+                                playerScoring[shot.player.full_name].expected += expectedPoints
+                            } else {
+                                playerScoring[shot.player.full_name]['expected'] = expectedPoints
+                            }
+                            if (shot.made) {
+                                actualScore += shotValue
+                                if (!playerScoring[shot.player.full_name]) {
+                                    playerScoring[shot.player.full_name] = {}
+                                }
+                                if (!playerScoring[shot.player.full_name].actual) {
+                                    playerScoring[shot.player.full_name]['actual'] = shotValue
+                                } else {
+                                    playerScoring[shot.player.full_name].actual += shotValue
+
+                                }
                             }
                         }
 
                     }
+                    // console.log({
+                    //     expectedScore, player: shot.player.full_name, pstats: playerScoring[shot.player.full_name], shotValue, shotmade: shot.made
+                    // })
+
                 }
             }
         }
     }
 
     // console.log({ expectedScore, playerStats, shotTypes, shot: shotTypes['Jazz'].threepointmiss })
-    const actualScore = allEvents.home.name === "Jazz" ? allEvents.home.points : allEvents.away.points
+    const oponentScore = allEvents.home.name !== "Jazz" ? allEvents.home.points : allEvents.away.points
     // console.log({ expectedScore, playerScoring, actualScore, difference: actualScore - expectedScore.Jazz, twoPointersTaken, threePointersTaken, freeThrowsTaken, totalShotsTaken })
 
     let writeContent = 'Expected Score: ' + expectedScore.Jazz + '\n'
     writeContent += 'Actual Score: ' + actualScore + '\n'
     writeContent += 'Difference: ' + (actualScore - expectedScore.Jazz) + '\n'
+    writeContent += 'Opponent Score: ' + (oponentScore) + '\n'
+    writeContent += 'Game Outcome: ' + (oponentScore > actualScore ? 'Loss' : "Win") + '\n'
     writeContent += 'Two Pointers Taken: ' + twoPointersTaken + '\n'
     writeContent += 'Three Pointers Taken: ' + threePointersTaken + '\n'
     writeContent += 'Free Throws Taken: ' + freeThrowsTaken + '\n'
@@ -198,6 +283,7 @@ const main = async () => {
     let playerScoringContent = ''
     for (let player in playerScoring) {
         playerScoringContent += '\t' + player + ': \n'
+        playerScoringContent += '\t\tShots Taken: ' + playerStats.Jazz[player].length + '\n'
         playerScoringContent += '\t\t' + 'Expected: ' + playerScoring[player].expected + '\n'
         playerScoringContent += '\t\t' + 'Actual: ' + playerScoring[player].actual + '\n'
         playerScoringContent += '\t\t' + 'Difference: ' + (playerScoring[player].actual - playerScoring[player].expected) + '\n'

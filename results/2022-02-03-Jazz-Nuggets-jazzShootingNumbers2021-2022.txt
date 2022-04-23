@@ -1,0 +1,56 @@
+Expected Score: 107.47800000000001
+Actual Score: 108
+Difference: 0.5219999999999914
+Opponent Score: 104
+Game Outcome: Win
+Two Pointers Taken: 57
+Three Pointers Taken: 29
+Free Throws Taken: 22
+Total Shots Taken: 108
+Player Scoring: 
+	Mike Conley: 
+		Shots Taken: 16
+		Expected: 16.194999999999993
+		Actual: 17
+		Difference: 0.8050000000000068
+	Royce O'Neale: 
+		Shots Taken: 11
+		Expected: 12.524
+		Actual: 15
+		Difference: 2.476000000000001
+	Udoka Azubuike: 
+		Shots Taken: 7
+		Expected: 7.73
+		Actual: 8
+		Difference: 0.2699999999999996
+	Trent Forrest: 
+		Shots Taken: 13
+		Expected: 11.575999999999999
+		Actual: 18
+		Difference: 6.424000000000001
+	Bojan Bogdanovic: 
+		Shots Taken: 21
+		Expected: 19.467000000000002
+		Actual: 15
+		Difference: -4.467000000000002
+	Jared Butler: 
+		Shots Taken: 11
+		Expected: 9.852000000000002
+		Actual: 10
+		Difference: 0.1479999999999979
+	Elijah Hughes: 
+		Shots Taken: 4
+		Expected: 5.297000000000001
+		Actual: 5
+		Difference: -0.2970000000000006
+	Eric Paschall: 
+		Shots Taken: 4
+		Expected: 4.442
+		Actual: 5
+		Difference: 0.5579999999999998
+	Rudy Gay: 
+		Shots Taken: 21
+		Expected: 20.395000000000003
+		Actual: 15
+		Difference: -5.395000000000003
+

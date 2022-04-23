@@ -1,0 +1,76 @@
+Expected Score: 111.84199999999997
+Actual Score: 137
+Difference: 25.15800000000003
+Opponent Score: 101
+Game Outcome: Win
+Two Pointers Taken: 48
+Three Pointers Taken: 36
+Free Throws Taken: 32
+Total Shots Taken: 116
+Player Scoring: 
+	Trent Forrest: 
+		Shots Taken: 2
+		Expected: 1.9760000000000002
+		Actual: 4
+		Difference: 2.024
+	Bojan Bogdanovic: 
+		Shots Taken: 23
+		Expected: 21.754
+		Actual: 27
+		Difference: 5.245999999999999
+	Danuel House Jr.: 
+		Shots Taken: 9
+		Expected: 10.191999999999998
+		Actual: 14
+		Difference: 3.8080000000000016
+	Juancho Hernangomez: 
+		Shots Taken: 7
+		Expected: 5.561999999999999
+		Actual: 4
+		Difference: -1.5619999999999994
+	Rudy Gobert: 
+		Shots Taken: 13
+		Expected: 14.696000000000002
+		Actual: 20
+		Difference: 5.3039999999999985
+	Hassan Whiteside: 
+		Shots Taken: 17
+		Expected: 17.304
+		Actual: 15
+		Difference: -2.3039999999999985
+	Jordan Clarkson: 
+		Shots Taken: 11
+		Expected: 10.476000000000003
+		Actual: 18
+		Difference: 7.523999999999997
+	Jared Butler: 
+		Shots Taken: 13
+		Expected: 11.775999999999998
+		Actual: 7
+		Difference: -4.775999999999998
+	Rudy Gay: 
+		Shots Taken: 8
+		Expected: 7.111
+		Actual: 12
+		Difference: 4.889
+	Nickeil Alexander-Walker: 
+		Shots Taken: 5
+		Expected: 2.284
+		Actual: 9
+		Difference: 6.716
+	Eric Paschall: 
+		Shots Taken: 3
+		Expected: 3.211
+		Actual: 3
+		Difference: -0.21099999999999985
+	Xavier Sneed: 
+		Shots Taken: 3
+		Expected: 1.5
+		Actual: undefined
+		Difference: NaN
+	Greg Monroe: 
+		Shots Taken: 2
+		Expected: 4
+		Actual: 4
+		Difference: 0
+

@@ -1,0 +1,56 @@
+Expected Score: 114.56799999999998
+Actual Score: 99
+Difference: -15.567999999999984
+Opponent Score: 107
+Game Outcome: Loss
+Two Pointers Taken: 54
+Three Pointers Taken: 38
+Free Throws Taken: 19
+Total Shots Taken: 111
+Player Scoring: 
+	Joe Ingles: 
+		Shots Taken: 9
+		Expected: 9.149999999999997
+		Actual: 9
+		Difference: -0.1499999999999968
+	Bojan Bogdanovic: 
+		Shots Taken: 16
+		Expected: 16.804000000000002
+		Actual: 14
+		Difference: -2.804000000000002
+	Rudy Gobert: 
+		Shots Taken: 13
+		Expected: 12.25
+		Actual: 17
+		Difference: 4.75
+	Donovan Mitchell: 
+		Shots Taken: 37
+		Expected: 38.153000000000006
+		Actual: 30
+		Difference: -8.153000000000006
+	Royce O'Neale: 
+		Shots Taken: 5
+		Expected: 5.631
+		Actual: 7
+		Difference: 1.3689999999999998
+	Jordan Clarkson: 
+		Shots Taken: 22
+		Expected: 22.070000000000004
+		Actual: 16
+		Difference: -6.070000000000004
+	Jared Butler: 
+		Shots Taken: 3
+		Expected: 2.612
+		Actual: undefined
+		Difference: NaN
+	Eric Paschall: 
+		Shots Taken: 2
+		Expected: 2.488
+		Actual: 2
+		Difference: -0.488
+	Hassan Whiteside: 
+		Shots Taken: 4
+		Expected: 5.41
+		Actual: 4
+		Difference: -1.4100000000000001
+

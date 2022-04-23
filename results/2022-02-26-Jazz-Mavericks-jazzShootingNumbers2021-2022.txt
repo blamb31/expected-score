@@ -1,0 +1,56 @@
+Expected Score: 99.35399999999997
+Actual Score: 114
+Difference: 14.64600000000003
+Opponent Score: 109
+Game Outcome: Win
+Two Pointers Taken: 36
+Three Pointers Taken: 38
+Free Throws Taken: 22
+Total Shots Taken: 96
+Player Scoring: 
+	Bojan Bogdanovic: 
+		Shots Taken: 17
+		Expected: 18.003000000000004
+		Actual: 18
+		Difference: -0.0030000000000036664
+	Donovan Mitchell: 
+		Shots Taken: 24
+		Expected: 24.657
+		Actual: 33
+		Difference: 8.343
+	Mike Conley: 
+		Shots Taken: 14
+		Expected: 14.774999999999997
+		Actual: 15
+		Difference: 0.2250000000000032
+	Rudy Gobert: 
+		Shots Taken: 10
+		Expected: 11.712
+		Actual: 14
+		Difference: 2.2880000000000003
+	Trent Forrest: 
+		Shots Taken: 2
+		Expected: 1.7280000000000002
+		Actual: 4
+		Difference: 2.272
+	Jordan Clarkson: 
+		Shots Taken: 14
+		Expected: 14.405999999999997
+		Actual: 13
+		Difference: -1.405999999999997
+	Danuel House Jr.: 
+		Shots Taken: 6
+		Expected: 5.0840000000000005
+		Actual: 6
+		Difference: 0.9159999999999995
+	Royce O'Neale: 
+		Shots Taken: 7
+		Expected: 7.743
+		Actual: 9
+		Difference: 1.2569999999999997
+	Hassan Whiteside: 
+		Shots Taken: 2
+		Expected: 1.246
+		Actual: 2
+		Difference: 0.754
+

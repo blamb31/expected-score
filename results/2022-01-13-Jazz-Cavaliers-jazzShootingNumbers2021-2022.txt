@@ -1,0 +1,56 @@
+Expected Score: 97.79999999999995
+Actual Score: 91
+Difference: -6.7999999999999545
+Opponent Score: 111
+Game Outcome: Loss
+Two Pointers Taken: 38
+Three Pointers Taken: 47
+Free Throws Taken: 11
+Total Shots Taken: 96
+Player Scoring: 
+	Donovan Mitchell: 
+		Shots Taken: 18
+		Expected: 18.692
+		Actual: 17
+		Difference: -1.6920000000000002
+	Joe Ingles: 
+		Shots Taken: 5
+		Expected: 5.07
+		Actual: 2
+		Difference: -3.0700000000000003
+	Mike Conley: 
+		Shots Taken: 14
+		Expected: 13.423999999999996
+		Actual: 12
+		Difference: -1.423999999999996
+	Bojan Bogdanovic: 
+		Shots Taken: 16
+		Expected: 17.519
+		Actual: 9
+		Difference: -8.518999999999998
+	Royce O'Neale: 
+		Shots Taken: 5
+		Expected: 6.24
+		Actual: 6
+		Difference: -0.2400000000000002
+	Jordan Clarkson: 
+		Shots Taken: 20
+		Expected: 19.578999999999997
+		Actual: 22
+		Difference: 2.421000000000003
+	Eric Paschall: 
+		Shots Taken: 11
+		Expected: 12.276000000000002
+		Actual: 18
+		Difference: 5.723999999999998
+	Denzel Valentine: 
+		Shots Taken: 4
+		Expected: 5
+		Actual: 5
+		Difference: 0
+	Zylan Cheatham: 
+		Shots Taken: 3
+		Expected: 0
+		Actual: undefined
+		Difference: NaN
+

@@ -1,0 +1,76 @@
+Expected Score: 100.2179999999999
+Actual Score: 119
+Difference: 18.782000000000096
+Opponent Score: 103
+Game Outcome: Win
+Two Pointers Taken: 34
+Three Pointers Taken: 46
+Free Throws Taken: 13
+Total Shots Taken: 93
+Player Scoring: 
+	Bojan Bogdanovic: 
+		Shots Taken: 9
+		Expected: 9.924999999999999
+		Actual: 7
+		Difference: -2.924999999999999
+	Rudy Gobert: 
+		Shots Taken: 7
+		Expected: 10.443999999999999
+		Actual: 14
+		Difference: 3.556000000000001
+	Donovan Mitchell: 
+		Shots Taken: 19
+		Expected: 19.87
+		Actual: 20
+		Difference: 0.129999999999999
+	Royce O'Neale: 
+		Shots Taken: 8
+		Expected: 10.128
+		Actual: 16
+		Difference: 5.872
+	Mike Conley: 
+		Shots Taken: 4
+		Expected: 4.208
+		Actual: 5
+		Difference: 0.7919999999999998
+	Hassan Whiteside: 
+		Shots Taken: 8
+		Expected: 8.779
+		Actual: 11
+		Difference: 2.221
+	Jordan Clarkson: 
+		Shots Taken: 12
+		Expected: 11.672
+		Actual: 12
+		Difference: 0.3279999999999994
+	Joe Ingles: 
+		Shots Taken: 8
+		Expected: 7.7059999999999995
+		Actual: 10
+		Difference: 2.2940000000000005
+	Rudy Gay: 
+		Shots Taken: 10
+		Expected: 10.511000000000001
+		Actual: 20
+		Difference: 9.488999999999999
+	Trent Forrest: 
+		Shots Taken: 3
+		Expected: 2.8440000000000003
+		Actual: 4
+		Difference: 1.1559999999999997
+	Jared Butler: 
+		Shots Taken: 2
+		Expected: 1.888
+		Actual: undefined
+		Difference: NaN
+	Miye Oni: 
+		Shots Taken: 1
+		Expected: 0
+		Actual: undefined
+		Difference: NaN
+	Eric Paschall: 
+		Shots Taken: 2
+		Expected: 2.243
+		Actual: undefined
+		Difference: NaN
+

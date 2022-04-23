@@ -1,0 +1,86 @@
+Expected Score: 114.25899999999997
+Actual Score: 90
+Difference: -24.258999999999972
+Opponent Score: 124
+Game Outcome: Loss
+Two Pointers Taken: 48
+Three Pointers Taken: 41
+Free Throws Taken: 26
+Total Shots Taken: 115
+Player Scoring: 
+	Donovan Mitchell: 
+		Shots Taken: 20
+		Expected: 20.701999999999998
+		Actual: 14
+		Difference: -6.701999999999998
+	Bojan Bogdanovic: 
+		Shots Taken: 13
+		Expected: 13.812000000000001
+		Actual: 5
+		Difference: -8.812000000000001
+	Mike Conley: 
+		Shots Taken: 8
+		Expected: 9
+		Actual: 2
+		Difference: -7
+	Rudy Gobert: 
+		Shots Taken: 10
+		Expected: 10.107999999999997
+		Actual: 10
+		Difference: -0.10799999999999699
+	Danuel House Jr.: 
+		Shots Taken: 7
+		Expected: 7.857999999999999
+		Actual: 11
+		Difference: 3.1420000000000012
+	Jordan Clarkson: 
+		Shots Taken: 13
+		Expected: 12.573999999999998
+		Actual: 10
+		Difference: -2.573999999999998
+	Rudy Gay: 
+		Shots Taken: 7
+		Expected: 5.706
+		Actual: 1
+		Difference: -4.706
+	Hassan Whiteside: 
+		Shots Taken: 9
+		Expected: 9.655999999999999
+		Actual: 13
+		Difference: 3.344000000000001
+	Royce O'Neale: 
+		Shots Taken: 4
+		Expected: 4.704
+		Actual: 6
+		Difference: 1.2960000000000003
+	Trent Forrest: 
+		Shots Taken: 4
+		Expected: 3.9559999999999995
+		Actual: 2
+		Difference: -1.9559999999999995
+	Juancho Hernangomez: 
+		Shots Taken: 5
+		Expected: 3.191
+		Actual: 2
+		Difference: -1.1909999999999998
+	Jared Butler: 
+		Shots Taken: 4
+		Expected: 3.496
+		Actual: undefined
+		Difference: NaN
+	Udoka Azubuike: 
+		Shots Taken: 2
+		Expected: 3.0460000000000003
+		Actual: 2
+		Difference: -1.0460000000000003
+	Nickeil Alexander-Walker: 
+		Shots Taken: 6
+		Expected: 3.7159999999999993
+		Actual: 7
+		Difference: 3.2840000000000007
+	Eric Paschall: 
+		Shots Taken: 3
+		Expected: 2.734
+		Actual: 5
+		Difference: 2.266
+

@@ -1,0 +1,61 @@
+Expected Score: 118.074
+Actual Score: 121
+Difference: 2.926000000000002
+Opponent Score: 92
+Game Outcome: Win
+Two Pointers Taken: 53
+Three Pointers Taken: 44
+Free Throws Taken: 14
+Total Shots Taken: 111
+Player Scoring: 
+	Mike Conley: 
+		Shots Taken: 16
+		Expected: 16.043999999999993
+		Actual: 8
+		Difference: -8.043999999999993
+	Nickeil Alexander-Walker: 
+		Shots Taken: 13
+		Expected: 12.733999999999998
+		Actual: 13
+		Difference: 0.2660000000000018
+	Juancho Hernangomez: 
+		Shots Taken: 6
+		Expected: 7.974
+		Actual: 6
+		Difference: -1.9740000000000002
+	Royce O'Neale: 
+		Shots Taken: 5
+		Expected: 6.054
+		Actual: 5
+		Difference: -1.0540000000000003
+	Rudy Gobert: 
+		Shots Taken: 14
+		Expected: 17.528000000000006
+		Actual: 19
+		Difference: 1.4719999999999942
+	Jordan Clarkson: 
+		Shots Taken: 19
+		Expected: 19.376999999999995
+		Actual: 20
+		Difference: 0.6230000000000047
+	Eric Paschall: 
+		Shots Taken: 18
+		Expected: 18.286
+		Actual: 17
+		Difference: -1.2860000000000014
+	Jared Butler: 
+		Shots Taken: 13
+		Expected: 11.715999999999998
+		Actual: 21
+		Difference: 9.284000000000002
+	Rudy Gay: 
+		Shots Taken: 6
+		Expected: 6.861
+		Actual: 9
+		Difference: 2.1390000000000002
+	Xavier Sneed: 
+		Shots Taken: 1
+		Expected: 1.5
+		Actual: 3
+		Difference: 1.5
+
