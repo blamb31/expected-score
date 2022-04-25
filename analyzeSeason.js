@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const median = arr => {
     const mid = Math.floor(arr.length / 2),
-        nums = [...arr].sort((a, b) => a - b);
+        nums = [...arr].sort((a, b) => parseInt(a) - parseInt(b));
     return arr.length % 2 !== 0 ? nums[mid] : (nums[mid - 1] + nums[mid]) / 2;
 };
 
@@ -34,9 +34,9 @@ const main = async () => {
         const data = fs.readFileSync(`./results/${file}`, 'utf8');
         const dataArr = data.split('\n');
 
-        const expected = parseInt(dataArr[0].split(':')[1].trim());
-        const actual = parseInt(dataArr[1].split(':')[1].trim());
-        const outcome = dataArr[4].split(':')[1].trim();
+        const expected = parseFloat(dataArr[2].split(':')[1].trim());
+        const actual = parseInt(dataArr[3].split(':')[1].trim());
+        const outcome = dataArr[6].split(':')[1].trim();
 
         allDiffs.push(actual - expected);
 
@@ -68,6 +68,22 @@ const main = async () => {
             lowestUnder.game = file;
         }
 
+    });
+    console.log({
+        totalActual,
+        totalExpected,
+        diff: totalActual - totalExpected,
+        avgDif: (totalActual - totalExpected) / files.length,
+        totalOver, totalUnder,
+        avgOver: totalPointsOver / files.length,
+        avgUnder: totalPointsUnder / files.length * -1,
+        pointDiffInWins: pointsDiffInWins / totalWins,
+        pointDiffInLosses: pointsDiffInLosses / totalLosses,
+        highestOverValue: highestOver.val,
+        highestOverGame: highestOver.game,
+        lowestUnderValue: lowestUnder.val,
+        lowestUnderGame: lowestUnder.game,
+        medianDiff: median(allDiffs),
     });
 }
 

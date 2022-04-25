@@ -1,0 +1,61 @@
+Summary for Jazz
+
+Expected Score: 121.00299999999997
+Actual Score: 100
+Difference: -21.00299999999997
+Opponent Score: 99
+Game Outcome: Win
+Two Pointers Taken: 44
+Three Pointers Taken: 35
+Free Throws Taken: 42
+Total Shots Taken: 121
+Player Scoring: 
+	Bojan Bogdanovic: 
+		Shots Taken: 14
+		Expected: 13.688000000000002
+		Actual: 12
+		Difference: -1.6880000000000024
+	Donovan Mitchell: 
+		Shots Taken: 30
+		Expected: 30.889
+		Actual: 23
+		Difference: -7.888999999999999
+	Royce O'Neale: 
+		Shots Taken: 8
+		Expected: 10.128
+		Actual: 7
+		Difference: -3.128
+	Mike Conley: 
+		Shots Taken: 10
+		Expected: 10.127999999999998
+		Actual: 6
+		Difference: -4.127999999999998
+	Jordan Clarkson: 
+		Shots Taken: 21
+		Expected: 20.349999999999998
+		Actual: 25
+		Difference: 4.650000000000002
+	Hassan Whiteside: 
+		Shots Taken: 3
+		Expected: 2.7460000000000004
+		Actual: 2
+		Difference: -0.7460000000000004
+	Danuel House Jr.: 
+		Shots Taken: 6
+		Expected: 4.668
+		Actual: 2
+		Difference: -2.668
+	Rudy Gobert: 
+		Shots Taken: 26
+		Expected: 24.356000000000012
+		Actual: 17
+		Difference: -7.356000000000012
+	Juancho Hernangomez: 
+		Shots Taken: 3
+		Expected: 4.050000000000001
+		Actual: 6
+		Difference: 1.9499999999999993
+
+
+
+undefined

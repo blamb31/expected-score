@@ -1,3 +1,5 @@
+Summary for Jazz
+
 Expected Score: 111.06700000000004
 Actual Score: 97
 Difference: -14.067000000000036
@@ -69,3 +71,6 @@ Player Scoring:
 		Actual: undefined
 		Difference: NaN
 
+
+
+undefined
