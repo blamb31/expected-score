@@ -58,8 +58,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 1
 		Expected: 1.5
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -1.5
 
 
 

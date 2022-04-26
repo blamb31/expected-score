@@ -33,8 +33,8 @@ Player Scoring:
 	Nickeil Alexander-Walker: 
 		Shots Taken: 1
 		Expected: 0.728
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.728
 	Hassan Whiteside: 
 		Shots Taken: 12
 		Expected: 9.051

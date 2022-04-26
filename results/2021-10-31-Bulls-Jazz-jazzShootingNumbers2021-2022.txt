@@ -43,8 +43,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 3
 		Expected: 2.612
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.612
 	Eric Paschall: 
 		Shots Taken: 2
 		Expected: 2.488

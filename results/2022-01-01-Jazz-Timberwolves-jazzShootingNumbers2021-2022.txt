@@ -53,8 +53,8 @@ Player Scoring:
 	Miye Oni: 
 		Shots Taken: 2
 		Expected: 0.42900000000000005
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.42900000000000005
 	Elijah Hughes: 
 		Shots Taken: 2
 		Expected: 2.571

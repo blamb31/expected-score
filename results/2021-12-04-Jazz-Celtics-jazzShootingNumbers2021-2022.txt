@@ -53,8 +53,8 @@ Player Scoring:
 	Trent Forrest: 
 		Shots Taken: 1
 		Expected: 0.8640000000000001
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.8640000000000001
 	Hassan Whiteside: 
 		Shots Taken: 1
 		Expected: 0

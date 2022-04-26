@@ -38,8 +38,8 @@ Player Scoring:
 	Trent Forrest: 
 		Shots Taken: 3
 		Expected: 2.46
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.46
 	Jordan Clarkson: 
 		Shots Taken: 18
 		Expected: 17.165999999999997

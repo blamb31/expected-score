@@ -58,13 +58,13 @@ Player Scoring:
 	Nickeil Alexander-Walker: 
 		Shots Taken: 1
 		Expected: 0.21299999999999997
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.21299999999999997
 	Jared Butler: 
 		Shots Taken: 1
 		Expected: 0.8340000000000001
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.8340000000000001
 
 
 

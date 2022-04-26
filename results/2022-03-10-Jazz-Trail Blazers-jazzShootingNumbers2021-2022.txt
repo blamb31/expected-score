@@ -63,8 +63,8 @@ Player Scoring:
 	Nickeil Alexander-Walker: 
 		Shots Taken: 4
 		Expected: 0.8519999999999999
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.8519999999999999
 	Udoka Azubuike: 
 		Shots Taken: 3
 		Expected: 4.638

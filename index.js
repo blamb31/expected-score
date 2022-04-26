@@ -18,6 +18,8 @@
 const fs = require('fs');
 require('dotenv')
 
+const test = (i) => i * 2
+
 const main = async () => {
 
     const GetGameInfo = require('./getGameInfo');
@@ -86,6 +88,9 @@ const main = async () => {
             const currentTeamShootingPercentages = team === 'Jazz' ? playerShootingPercentages : otherTeamShootingPercentages
             expectedScore[team] = 0
             for (let player in playerStats[team]) {
+                playerScoring[team][player] = {}
+                playerScoring[team][player]['expected'] = 0
+                playerScoring[team][player]['actual'] = 0
                 for (let shot of playerStats[team][player]) {
                     // console.log({ player: shot.player, player, shotMade: shot.shotMade, distance: shot.distance })
                     totalShotsTaken[team]++
@@ -311,3 +316,5 @@ const main = async () => {
     fs.writeFileSync(`./results/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
 }
 main()
+
+module.exports = { main, test }

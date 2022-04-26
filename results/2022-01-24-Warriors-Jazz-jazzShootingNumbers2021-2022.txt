@@ -53,8 +53,8 @@ Player Scoring:
 	Royce O'Neale: 
 		Shots Taken: 4
 		Expected: 5.157
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -5.157
 
 
 

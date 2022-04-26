@@ -48,8 +48,8 @@ Player Scoring:
 	Eric Paschall: 
 		Shots Taken: 1
 		Expected: 1.2000000000000002
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -1.2000000000000002
 	Joe Ingles: 
 		Shots Taken: 8
 		Expected: 7.825999999999999
@@ -58,8 +58,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 1
 		Expected: 1.072
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -1.072
 
 
 

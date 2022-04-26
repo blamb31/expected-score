@@ -53,8 +53,8 @@ Player Scoring:
 	Rudy Gay: 
 		Shots Taken: 2
 		Expected: 2.133
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.133
 	Jared Butler: 
 		Shots Taken: 1
 		Expected: 1.25
@@ -63,8 +63,8 @@ Player Scoring:
 	Eric Paschall: 
 		Shots Taken: 1
 		Expected: 1.244
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -1.244
 
 
 

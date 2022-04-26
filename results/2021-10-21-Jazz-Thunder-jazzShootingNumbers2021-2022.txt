@@ -33,8 +33,8 @@ Player Scoring:
 	Royce O'Neale: 
 		Shots Taken: 4
 		Expected: 4.704
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -4.704
 	Joe Ingles: 
 		Shots Taken: 8
 		Expected: 8.799999999999999
@@ -58,8 +58,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 5
 		Expected: 5.103999999999999
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -5.103999999999999
 	Elijah Hughes: 
 		Shots Taken: 2
 		Expected: 2

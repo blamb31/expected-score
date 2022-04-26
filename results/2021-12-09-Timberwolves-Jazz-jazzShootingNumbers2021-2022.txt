@@ -68,8 +68,8 @@ Player Scoring:
 	Malik Fitts: 
 		Shots Taken: 1
 		Expected: 0
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: 0
 
 
 

@@ -38,8 +38,8 @@ Player Scoring:
 	Hassan Whiteside: 
 		Shots Taken: 3
 		Expected: 2.7460000000000004
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.7460000000000004
 	Joe Ingles: 
 		Shots Taken: 7
 		Expected: 6.616

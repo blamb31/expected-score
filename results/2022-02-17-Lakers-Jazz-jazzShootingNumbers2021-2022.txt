@@ -38,8 +38,8 @@ Player Scoring:
 	Danuel House Jr.: 
 		Shots Taken: 2
 		Expected: 2.726
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.726
 	Hassan Whiteside: 
 		Shots Taken: 7
 		Expected: 6.992000000000001

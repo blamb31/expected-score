@@ -28,8 +28,8 @@ Player Scoring:
 	Nickeil Alexander-Walker: 
 		Shots Taken: 6
 		Expected: 6.113999999999999
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -6.113999999999999
 	Jordan Clarkson: 
 		Shots Taken: 22
 		Expected: 22.383
@@ -43,8 +43,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 1
 		Expected: 0.8340000000000001
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.8340000000000001
 	Rudy Gobert: 
 		Shots Taken: 15
 		Expected: 12.755999999999997

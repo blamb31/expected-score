@@ -58,8 +58,8 @@ Player Scoring:
 	Eric Paschall: 
 		Shots Taken: 2
 		Expected: 2.444
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.444
 
 
 

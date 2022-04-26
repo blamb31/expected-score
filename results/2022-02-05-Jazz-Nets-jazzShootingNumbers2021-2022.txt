@@ -63,8 +63,8 @@ Player Scoring:
 	Elijah Hughes: 
 		Shots Taken: 2
 		Expected: 2.1420000000000003
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.1420000000000003
 
 
 

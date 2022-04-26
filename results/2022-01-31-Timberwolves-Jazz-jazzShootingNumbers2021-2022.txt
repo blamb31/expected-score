@@ -28,8 +28,8 @@ Player Scoring:
 	Joe Ingles: 
 		Shots Taken: 3
 		Expected: 2.916
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.916
 	Bojan Bogdanovic: 
 		Shots Taken: 16
 		Expected: 16.694000000000003

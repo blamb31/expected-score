@@ -58,8 +58,8 @@ Player Scoring:
 	Hassan Whiteside: 
 		Shots Taken: 1
 		Expected: 0.91
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.91
 
 
 

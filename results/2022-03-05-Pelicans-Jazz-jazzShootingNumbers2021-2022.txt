@@ -68,8 +68,8 @@ Player Scoring:
 	Jared Butler: 
 		Shots Taken: 4
 		Expected: 3.496
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -3.496
 	Udoka Azubuike: 
 		Shots Taken: 2
 		Expected: 3.0460000000000003

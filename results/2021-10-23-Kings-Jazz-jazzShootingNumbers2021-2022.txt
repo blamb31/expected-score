@@ -38,8 +38,8 @@ Player Scoring:
 	Joe Ingles: 
 		Shots Taken: 1
 		Expected: 0.972
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -0.972
 	Royce O'Neale: 
 		Shots Taken: 7
 		Expected: 7.5729999999999995

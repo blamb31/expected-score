@@ -58,8 +58,8 @@ Player Scoring:
 	Trent Forrest: 
 		Shots Taken: 2
 		Expected: 1.7280000000000002
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -1.7280000000000002
 	Eric Paschall: 
 		Shots Taken: 3
 		Expected: 2.533

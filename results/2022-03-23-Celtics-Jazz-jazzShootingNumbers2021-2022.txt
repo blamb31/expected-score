@@ -48,13 +48,13 @@ Player Scoring:
 	Rudy Gay: 
 		Shots Taken: 6
 		Expected: 5.003
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -5.003
 	Trent Forrest: 
 		Shots Taken: 3
 		Expected: 2.9880000000000004
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: -2.9880000000000004
 	Jared Butler: 
 		Shots Taken: 3
 		Expected: 2.918
@@ -68,8 +68,8 @@ Player Scoring:
 	Xavier Sneed: 
 		Shots Taken: 1
 		Expected: 0
-		Actual: undefined
-		Difference: NaN
+		Actual: 0
+		Difference: 0
 
 
 
