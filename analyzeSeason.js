@@ -6,7 +6,15 @@ const median = arr => {
     return arr.length % 2 !== 0 ? nums[mid] : (nums[mid - 1] + nums[mid]) / 2;
 };
 
+
 const main = async () => {
+    let startDate = new Date('2021-20-20')
+    let gameCount = 0;
+
+    if (process.argv[2]) {
+        startDate = new Date(process.argv[2]);
+    }
+
     const files = fs.readdirSync('./results');
 
     let totalExpected = 0;
@@ -31,21 +39,31 @@ const main = async () => {
 
     //read file
     files.forEach(file => {
+        const fileparts = file.split('-');
+        const gameDate = new Date(`${fileparts[0]}-${fileparts[1]}-${fileparts[2]}`);
+
+        if (gameDate.getTime() < startDate.getTime()) {
+            return
+        }
+
+        gameCount++;
+
         const data = fs.readFileSync(`./results/${file}`, 'utf8');
         const dataArr = data.split('\n');
 
         const expected = parseFloat(dataArr[2].split(':')[1].trim());
         const actual = parseInt(dataArr[3].split(':')[1].trim());
         const outcome = dataArr[6].split(':')[1].trim();
+        const diff = actual - expected;
 
-        allDiffs.push(actual - expected);
+        allDiffs.push(diff);
 
         totalExpected += expected;
         totalActual += actual;
 
         if (actual >= expected) {
             totalOver += 1;
-            totalPointsOver += actual - expected;
+            totalPointsOver += diff;
         } else {
             totalUnder += 1;
             totalPointsUnder += expected - actual;
@@ -53,18 +71,18 @@ const main = async () => {
 
         if (outcome === "Win") {
             totalWins += 1;
-            pointsDiffInWins += (actual - expected)
+            pointsDiffInWins += (diff)
         } else {
             totalLosses += 1;
-            pointsDiffInLosses += (actual - expected)
+            pointsDiffInLosses += (diff)
         }
 
-        if (actual - expected > highestOver.val) {
-            highestOver.val = actual - expected;
+        if (diff > highestOver.val) {
+            highestOver.val = diff;
             highestOver.game = file;
         }
-        if (expected - actual < lowestUnder.val) {
-            lowestUnder.val = actual - expected;
+        if (diff < lowestUnder.val) {
+            lowestUnder.val = diff;
             lowestUnder.game = file;
         }
 
@@ -73,10 +91,10 @@ const main = async () => {
         totalActual,
         totalExpected,
         diff: totalActual - totalExpected,
-        avgDif: (totalActual - totalExpected) / files.length,
+        avgDif: (totalActual - totalExpected) / gameCount,
         totalOver, totalUnder,
-        avgOver: totalPointsOver / files.length,
-        avgUnder: totalPointsUnder / files.length * -1,
+        avgOver: totalPointsOver / gameCount,
+        avgUnder: totalPointsUnder / gameCount * -1,
         pointDiffInWins: pointsDiffInWins / totalWins,
         pointDiffInLosses: pointsDiffInLosses / totalLosses,
         highestOverValue: highestOver.val,

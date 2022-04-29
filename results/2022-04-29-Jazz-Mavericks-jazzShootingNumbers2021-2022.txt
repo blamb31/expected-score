@@ -1,0 +1,125 @@
+Summary for Jazz
+
+Expected Score: 109.44900000000004
+Actual Score: 96
+Difference: -13.44900000000004
+Opponent Score: 98
+Game Outcome: Loss
+Two Pointers Taken: 49
+Three Pointers Taken: 35
+Free Throws Taken: 20
+Total Shots Taken: 104
+Player Scoring: 
+	Donovan Mitchell: 
+		Shots Taken: 21
+		Expected: 22.208000000000006
+		Actual: 23
+		Difference: 0.7919999999999945
+	Mike Conley: 
+		Shots Taken: 12
+		Expected: 12.914
+		Actual: 11
+		Difference: -1.9139999999999997
+	Bojan Bogdanovic: 
+		Shots Taken: 19
+		Expected: 18.509
+		Actual: 19
+		Difference: 0.49099999999999966
+	Royce O'Neale: 
+		Shots Taken: 9
+		Expected: 11.559
+		Actual: 8
+		Difference: -3.5589999999999993
+	Rudy Gobert: 
+		Shots Taken: 10
+		Expected: 11.712
+		Actual: 10
+		Difference: -1.7119999999999997
+	Jordan Clarkson: 
+		Shots Taken: 19
+		Expected: 18.816000000000003
+		Actual: 15
+		Difference: -3.8160000000000025
+	Juancho Hernangomez: 
+		Shots Taken: 4
+		Expected: 4.029
+		Actual: 3
+		Difference: -1.029
+	Danuel House Jr.: 
+		Shots Taken: 8
+		Expected: 6.958
+		Actual: 5
+		Difference: -1.9580000000000002
+	Hassan Whiteside: 
+		Shots Taken: 1
+		Expected: 1.5
+		Actual: 0
+		Difference: -1.5
+	Eric Paschall: 
+		Shots Taken: 1
+		Expected: 1.244
+		Actual: 2
+		Difference: 0.756
+
+
+
+Summary for Mavericks
+
+Expected Score: 95.64599999999997
+Actual Score: 98
+Difference: 2.3540000000000276
+Opponent Score: 96
+Game Outcome: Win
+Two Pointers Taken: 37
+Three Pointers Taken: 43
+Free Throws Taken: 11
+Total Shots Taken: 91
+Player Scoring: 
+	Jalen Brunson: 
+		Shots Taken: 23
+		Expected: 24.345999999999997
+		Actual: 24
+		Difference: -0.34599999999999653
+	Dorian Finney-Smith: 
+		Shots Taken: 13
+		Expected: 14.564000000000004
+		Actual: 18
+		Difference: 3.4359999999999964
+	Dwight Powell: 
+		Shots Taken: 2
+		Expected: 3.036
+		Actual: 0
+		Difference: -3.036
+	Luka Doncic: 
+		Shots Taken: 25
+		Expected: 23.503999999999998
+		Actual: 24
+		Difference: 0.4960000000000022
+	Maxi Kleber: 
+		Shots Taken: 7
+		Expected: 7.229999999999999
+		Actual: 7
+		Difference: -0.22999999999999865
+	Reggie Bullock: 
+		Shots Taken: 6
+		Expected: 6.48
+		Actual: 6
+		Difference: -0.4800000000000004
+	Davis Bertans: 
+		Shots Taken: 1
+		Expected: 1.056
+		Actual: 0
+		Difference: -1.056
+	Spencer Dinwiddie: 
+		Shots Taken: 13
+		Expected: 14.221000000000002
+		Actual: 19
+		Difference: 4.778999999999998
+	Josh Green: 
+		Shots Taken: 1
+		Expected: 1.2089999999999999
+		Actual: 0
+		Difference: -1.2089999999999999
+
+
+
