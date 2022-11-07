@@ -11,11 +11,12 @@ const main = async () => {
     let startDate = new Date('2021-20-20')
     let gameCount = 0;
 
-    if (process.argv[2]) {
-        startDate = new Date(process.argv[2]);
+    if (process.argv[3]) {
+        startDate = new Date(process.argv[3]);
     }
+    const seasonYears = process.argv[2] || "2022-2023"
 
-    const files = fs.readdirSync('./results');
+    const files = fs.readdirSync(`./results/${seasonYears}`);
 
     let totalExpected = 0;
     let totalActual = 0;
@@ -48,7 +49,7 @@ const main = async () => {
 
         gameCount++;
 
-        const data = fs.readFileSync(`./results/${file}`, 'utf8');
+        const data = fs.readFileSync(`./results/${seasonYears}/${file}`, 'utf8');
         const dataArr = data.split('\n');
 
         const expected = parseFloat(dataArr[2].split(':')[1].trim());

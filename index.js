@@ -7,9 +7,10 @@
 // 4. String, filename of gameStats file to use or gameId to fetch
 // 5. Boolean, calculate other teams stats
 // 6. String, filename of other teams stats file to use or gameId to fetch
+// 7. String Season years to save as
 
 // Example - using a gameId input from the command line
-// node index.js jazzShootingNumbers false none 19646f6e-9812-4218-9289-f0340aab4168 > results/ 2021-11-07-jazz-magic.txt
+// node index.js jazzShootingNumbers false none 19646f6e-9812-4218-9289-f0340aab4168 > results/ 2021-11-07-jazz-magic.txt 2021-2022
 
 // Example - using a preloaded gameStats file
 // ode index.js jazzShootingNumbers true 2021-11-11-jazz-pacers > results/2021-11-11-jazz-pacers.txt  
@@ -35,6 +36,7 @@ const main = async () => {
     }
     await getAllEvents()
 
+    const seasonYears = process.argv[7] || '2022-2023'
     const calculateOtherTeam = process.argv[5] === 'true' ? true : false;
     const shootingFile = process.argv[2] || 'jazzShootingNumbers2020-2021'
     const otherShootingFile = process.argv[6] || null
@@ -313,7 +315,7 @@ const main = async () => {
 
     const totalContent = contentByTeam["Jazz"] + contentByTeam[opponent]
 
-    fs.writeFileSync(`./results/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
+    fs.writeFileSync(`./results/${seasonYears}/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
 }
 main()
 
