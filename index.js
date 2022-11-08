@@ -28,7 +28,7 @@ const main = async () => {
     let allEvents
     const getAllEvents = async () => {
         if (process.argv[3] === 'true') {
-            allEvents = require(`./setupInfo/gameStats/${gameFile}`)
+            allEvents = require(`./setupInfo/gameStats/2022-2023/${gameFile}`)
         }
         else {
             allEvents = await GetGameInfo.getGameInfo(gameFile)
@@ -40,8 +40,8 @@ const main = async () => {
     const calculateOtherTeam = process.argv[5] === 'true' ? true : false;
     const shootingFile = process.argv[2] || 'jazzShootingNumbers2020-2021'
     const otherShootingFile = process.argv[6] || null
-    const otherTeamShootingPercentages = otherShootingFile ? require(`./setupInfo/shootingNumbers/${otherShootingFile}`) : null
-    const playerShootingPercentages = require(`./setupInfo/shootingNumbers/${shootingFile}`);
+    const otherTeamShootingPercentages = otherShootingFile ? require(`./setupInfo/shootingNumbers/2022-2023/${otherShootingFile}`) : null
+    const playerShootingPercentages = require(`./setupInfo/shootingNumbers/2022-2023/${shootingFile}`);
     const home = allEvents.home.name
     const away = allEvents.away.name
     const opponent = allEvents.home.name === "Jazz" ? allEvents.away.name : allEvents.home.name
@@ -313,7 +313,7 @@ const main = async () => {
         contentByTeam[team] = writeContent
     }
 
-    const totalContent = contentByTeam["Jazz"] + contentByTeam[opponent]
+    const totalContent = contentByTeam["Jazz"] + contentByTeam[opponent] || ''
 
     fs.writeFileSync(`./results/${seasonYears}/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
 }
