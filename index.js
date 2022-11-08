@@ -1,4 +1,3 @@
-
 // Argv order:
 // 0. node
 // 1. String, file to run
@@ -19,10 +18,9 @@
 const fs = require('fs');
 require('dotenv')
 
-const test = (i) => i * 2
-
 const main = async () => {
 
+    // Setting up the work
     const GetGameInfo = require('./getGameInfo');
     const gameFile = process.argv[4];
     let allEvents
@@ -34,8 +32,11 @@ const main = async () => {
             allEvents = await GetGameInfo.getGameInfo(gameFile)
         }
     }
+
+    // Either get game events from the file or make the API call to get events
     await getAllEvents()
 
+    // Initialize the variables
     const seasonYears = process.argv[7] || '2022-2023'
     const calculateOtherTeam = process.argv[5] === 'true' ? true : false;
     const shootingFile = process.argv[2] || 'jazzShootingNumbers2020-2021'
@@ -49,27 +50,20 @@ const main = async () => {
     const allEventsList = []
     let actualScore = {}
 
+    // Get events from each period and put them into a single array
     allEvents.periods.forEach(period => allEventsList.push(...period.events))
 
+    // Find game events with statistics and then put only the statistics into an array
     const eventsWithStats = allEventsList.filter(event => event?.statistics?.length > 0);
     const allStats = []
     eventsWithStats.forEach(e => allStats.push(...e.statistics));
 
+    // Filter out all statistics that aren't fieldgoal or freethrow
     const filteredStats = allStats.filter(stat => ['fieldgoal', 'freethrow'].includes(stat.type))
 
-    const playerStats = {}
-    const shotTypes = {}
+    // Sort stats by player into a list for each player
+    const playerStats = sortStatsByPlayer(filteredStats)
 
-    filteredStats.forEach(event => {
-        if (!playerStats[event.team.name]) {
-            playerStats[event.team.name] = {}
-        }
-        if (!playerStats[event.team.name][event.player.full_name]) {
-            playerStats[event.team.name][event.player.full_name] = [event]
-        } else {
-            playerStats[event.team.name][event.player.full_name].push(event)
-        }
-    })
 
 
     const expectedScore = {}
@@ -317,6 +311,35 @@ const main = async () => {
 
     fs.writeFileSync(`./results/${seasonYears}/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
 }
+
+function sortStatsByPlayer(filteredStats) {
+    // Create an object for each team with player names as the key and an array of events for that player as the value
+    /* 
+    {
+        Jazz: {
+            "Mike Conley" : [
+                event1,
+                event2,
+                etc...
+            ]
+        }
+    }
+    */
+    const playerStats = {}
+
+    filteredStats.forEach(event => {
+        if (!playerStats[event.team.name]) {
+            playerStats[event.team.name] = {}
+        }
+        if (!playerStats[event.team.name][event.player.full_name]) {
+            playerStats[event.team.name][event.player.full_name] = [event]
+        } else {
+            playerStats[event.team.name][event.player.full_name].push(event)
+        }
+    })
+    return playerStats
+}
+
 main()
 
-module.exports = { main, test }
+module.exports = { main }

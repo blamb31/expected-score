@@ -1,18 +1,22 @@
 
 const puppeteer = require('puppeteer');
 
-(async () => {
+async function main() {
+    //Open the browser and get the page
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
+    //Get the player ids on the jazz roster
     const players = await getPlayerIds(page)
 
+    //Get shooting stats for each player and print them
     for (let player of players) {
         await getPlayerShootingStats(page, player[0])
     }
 
+    //Close the browser
     await browser.close();
-})();
+}
 
 async function getPlayerIds(page) {
 
@@ -86,5 +90,6 @@ async function getPlayerShootingStats(page, player) {
     });
     console.log(player.name)
     playerShootingStats.forEach(stat => console.log({ stat }))
-
 }
+
+main()
