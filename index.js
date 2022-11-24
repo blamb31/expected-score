@@ -16,6 +16,7 @@
 
 
 const fs = require('fs');
+const { getAllPlayerShootingStats } = require('./getPlayerShootingPercentages');
 require('dotenv')
 
 const main = async () => {
@@ -40,9 +41,17 @@ const main = async () => {
     const seasonYears = process.argv[7] || '2022-2023'
     const calculateOtherTeam = process.argv[5] === 'true' ? true : false;
     const shootingFile = process.argv[2] || 'jazzShootingNumbers2020-2021'
+    let playerShootingPercentages
+    if (shootingFile === 'false') {
+        playerShootingPercentages = await getAllPlayerShootingStats()
+    } else {
+        playerShootingPercentages = require(`./setupInfo/shootingNumbers/2022-2023/${shootingFile}`);
+    }
+    for (key in playerShootingPercentages["JAZZ"]) {
+        console.log({ key: playerShootingPercentages[key] })
+    }
     const otherShootingFile = process.argv[6] || null
     const otherTeamShootingPercentages = otherShootingFile ? require(`./setupInfo/shootingNumbers/2022-2023/${otherShootingFile}`) : null
-    const playerShootingPercentages = require(`./setupInfo/shootingNumbers/2022-2023/${shootingFile}`);
     const home = allEvents.home.name
     const away = allEvents.away.name
     const opponent = allEvents.home.name === "Jazz" ? allEvents.away.name : allEvents.home.name
