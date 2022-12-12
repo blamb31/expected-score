@@ -1,8 +1,8 @@
 Summary for Jazz
 
-Expected Score: 88.65186999999997
+Expected Score: 99.72699999999996
 Actual Score: 100
-Difference: 11.348130000000026
+Difference: 0.27300000000003877
 Opponent Score: 103
 Game Outcome: Loss
 Two Pointers Taken: 54
@@ -12,14 +12,14 @@ Total Shots Taken: 98
 Player Scoring: 
 	Jarred Vanderbilt: 
 		Shots Taken: 12
-		Expected: 10.91312
+		Expected: 12.211999999999998
 		Actual: 15
-		Difference: 4.086880000000001
+		Difference: 2.788000000000002
 	Lauri Markkanen: 
 		Shots Taken: 13
-		Expected: 11.342160000000002
+		Expected: 13.932
 		Actual: 14
-		Difference: 2.6578399999999984
+		Difference: 0.06799999999999962
 	Jordan Clarkson: 
 		Shots Taken: 20
 		Expected: 20.338
@@ -32,14 +32,14 @@ Player Scoring:
 		Difference: 2.1630000000000007
 	Mike Conley: 
 		Shots Taken: 12
-		Expected: 8.61384
+		Expected: 11.765999999999998
 		Actual: 11
-		Difference: 2.3861600000000003
+		Difference: -0.7659999999999982
 	Collin Sexton: 
 		Shots Taken: 21
-		Expected: 17.939749999999997
+		Expected: 21.973999999999993
 		Actual: 19
-		Difference: 1.0602500000000035
+		Difference: -2.973999999999993
 	Malik Beasley: 
 		Shots Taken: 11
 		Expected: 11.595

@@ -1,8 +1,8 @@
 Summary for Jazz
 
-Expected Score: 78.44096999999994
+Expected Score: 99.62399999999992
 Actual Score: 110
-Difference: 31.559030000000064
+Difference: 10.376000000000076
 Opponent Score: 102
 Game Outcome: Win
 Two Pointers Taken: 35
@@ -12,39 +12,39 @@ Total Shots Taken: 101
 Player Scoring: 
 	Jordan Clarkson: 
 		Shots Taken: 16
-		Expected: 15.17428
+		Expected: 15.994
 		Actual: 23
-		Difference: 7.8257200000000005
+		Difference: 7.006
 	Kelly Olynyk: 
 		Shots Taken: 8
-		Expected: 4.0649999999999995
+		Expected: 7.134
 		Actual: 9
-		Difference: 4.9350000000000005
+		Difference: 1.8659999999999997
 	Mike Conley: 
 		Shots Taken: 14
-		Expected: 14.00596
+		Expected: 14.793999999999999
 		Actual: 17
-		Difference: 2.99404
+		Difference: 2.2060000000000013
 	Lauri Markkanen: 
 		Shots Taken: 16
-		Expected: 9.18604
+		Expected: 15.228999999999997
 		Actual: 18
-		Difference: 8.81396
+		Difference: 2.7710000000000026
 	Malik Beasley: 
 		Shots Taken: 10
-		Expected: 9.05534
+		Expected: 10.673
 		Actual: 10
-		Difference: 0.9446600000000007
+		Difference: -0.673
 	Collin Sexton: 
 		Shots Taken: 22
-		Expected: 14.227350000000001
+		Expected: 21.489
 		Actual: 22
-		Difference: 7.772649999999999
+		Difference: 0.5109999999999992
 	Talen Horton-Tucker: 
 		Shots Taken: 7
-		Expected: 4.365
+		Expected: 5.949
 		Actual: 5
-		Difference: 0.6349999999999998
+		Difference: -0.9489999999999998
 	Rudy Gay: 
 		Shots Taken: 4
 		Expected: 3.78

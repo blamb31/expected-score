@@ -1,0 +1,81 @@
+Summary for Jazz
+
+Expected Score: 114.20199999999991
+Actual Score: 101
+Difference: -13.201999999999913
+Opponent Score: 117
+Game Outcome: Loss
+Two Pointers Taken: 52
+Three Pointers Taken: 39
+Free Throws Taken: 19
+Total Shots Taken: 110
+Player Scoring: 
+	Jordan Clarkson: 
+		Shots Taken: 15
+		Expected: 14.350000000000001
+		Actual: 6
+		Difference: -8.350000000000001
+	Kelly Olynyk: 
+		Shots Taken: 6
+		Expected: 7.942000000000001
+		Actual: 7
+		Difference: -0.9420000000000011
+	Mike Conley: 
+		Shots Taken: 9
+		Expected: 8.294999999999998
+		Actual: 14
+		Difference: 5.705000000000002
+	Lauri Markkanen: 
+		Shots Taken: 14
+		Expected: 17.400000000000002
+		Actual: 17
+		Difference: -0.40000000000000213
+	Collin Sexton: 
+		Shots Taken: 12
+		Expected: 12.448999999999998
+		Actual: 13
+		Difference: 0.5510000000000019
+	Malik Beasley: 
+		Shots Taken: 10
+		Expected: 10.113
+		Actual: 5
+		Difference: -5.1129999999999995
+	Talen Horton-Tucker: 
+		Shots Taken: 11
+		Expected: 9.718
+		Actual: 6
+		Difference: -3.718
+	Jarred Vanderbilt: 
+		Shots Taken: 9
+		Expected: 10.617999999999999
+		Actual: 7
+		Difference: -3.6179999999999986
+	Ochai Agbaji: 
+		Shots Taken: 9
+		Expected: 7.126
+		Actual: 9
+		Difference: 1.8739999999999997
+	Nickeil Alexander-Walker: 
+		Shots Taken: 7
+		Expected: 7.190999999999999
+		Actual: 7
+		Difference: -0.19099999999999895
+	Leandro Bolmaro: 
+		Shots Taken: 3
+		Expected: 1
+		Actual: 2
+		Difference: 1
+	Udoka Azubuike: 
+		Shots Taken: 3
+		Expected: 4
+		Actual: 4
+		Difference: 0
+	Micah Potter: 
+		Shots Taken: 2
+		Expected: 4
+		Actual: 4
+		Difference: 0
+
+
+
+undefined

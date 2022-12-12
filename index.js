@@ -309,7 +309,7 @@ const main = async () => {
 
     const totalContent = contentByTeam["Jazz"] + contentByTeam[opponent] || ''
 
-    fs.writeFileSync(`./results/${seasonYears}/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
+    fs.writeFileSync(`./results/${seasonYears}/midseason-dec-shooting-numbers/${date}-${home}-${away}-${shootingFile}.txt`, totalContent)
 }
 
 function sortStatsByPlayer(filteredStats) {

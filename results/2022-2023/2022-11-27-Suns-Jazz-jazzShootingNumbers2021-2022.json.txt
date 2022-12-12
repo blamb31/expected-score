@@ -1,0 +1,61 @@
+Summary for Jazz
+
+Expected Score: 95.99100000000001
+Actual Score: 112
+Difference: 16.008999999999986
+Opponent Score: 113
+Game Outcome: Loss
+Two Pointers Taken: 47
+Three Pointers Taken: 32
+Free Throws Taken: 25
+Total Shots Taken: 104
+Player Scoring: 
+	Kelly Olynyk: 
+		Shots Taken: 11
+		Expected: 10.634
+		Actual: 10
+		Difference: -0.6340000000000003
+	Collin Sexton: 
+		Shots Taken: 19
+		Expected: 18.189999999999998
+		Actual: 20
+		Difference: 1.8100000000000023
+	Lauri Markkanen: 
+		Shots Taken: 20
+		Expected: 18.54
+		Actual: 15
+		Difference: -3.539999999999999
+	Jarred Vanderbilt: 
+		Shots Taken: 4
+		Expected: 4.518
+		Actual: 6
+		Difference: 1.4820000000000002
+	Jordan Clarkson: 
+		Shots Taken: 22
+		Expected: 20.675999999999995
+		Actual: 22
+		Difference: 1.3240000000000052
+	Talen Horton-Tucker: 
+		Shots Taken: 7
+		Expected: 5.212000000000001
+		Actual: 10
+		Difference: 4.787999999999999
+	Malik Beasley: 
+		Shots Taken: 13
+		Expected: 12.957000000000003
+		Actual: 14
+		Difference: 1.0429999999999975
+	Nickeil Alexander-Walker: 
+		Shots Taken: 5
+		Expected: 4.064000000000001
+		Actual: 12
+		Difference: 7.935999999999999
+	Walker Kessler: 
+		Shots Taken: 3
+		Expected: 1.2
+		Actual: 3
+		Difference: 1.8
+
+
+
+undefined

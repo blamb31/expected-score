@@ -1,8 +1,8 @@
 Summary for Jazz
 
-Expected Score: 116.42593999999997
+Expected Score: 132.458
 Actual Score: 132
-Difference: 15.574060000000031
+Difference: -0.4579999999999984
 Opponent Score: 126
 Game Outcome: Win
 Two Pointers Taken: 61
@@ -12,9 +12,9 @@ Total Shots Taken: 132
 Player Scoring: 
 	Jordan Clarkson: 
 		Shots Taken: 19
-		Expected: 16.97356
+		Expected: 18.613
 		Actual: 29
-		Difference: 12.026440000000001
+		Difference: 10.387
 	Kelly Olynyk: 
 		Shots Taken: 14
 		Expected: 16.605999999999998
@@ -22,19 +22,19 @@ Player Scoring:
 		Difference: 4.394000000000002
 	Lauri Markkanen: 
 		Shots Taken: 25
-		Expected: 23.279439999999997
+		Expected: 25.005999999999997
 		Actual: 24
-		Difference: 0.7205600000000025
+		Difference: -1.0059999999999967
 	Mike Conley: 
 		Shots Taken: 17
-		Expected: 16.96492
+		Expected: 18.540999999999997
 		Actual: 12
-		Difference: -4.964919999999999
+		Difference: -6.540999999999997
 	Collin Sexton: 
 		Shots Taken: 14
-		Expected: 7.229199999999998
+		Expected: 13.683999999999997
 		Actual: 11
-		Difference: 3.770800000000002
+		Difference: -2.6839999999999975
 	Malik Beasley: 
 		Shots Taken: 16
 		Expected: 15.455000000000005
@@ -42,9 +42,9 @@ Player Scoring:
 		Difference: -0.4550000000000054
 	Rudy Gay: 
 		Shots Taken: 6
-		Expected: 3.3517
+		Expected: 4.906000000000001
 		Actual: 2
-		Difference: -1.3517000000000001
+		Difference: -2.9060000000000006
 	Talen Horton-Tucker: 
 		Shots Taken: 8
 		Expected: 7.973000000000001
@@ -52,14 +52,14 @@ Player Scoring:
 		Difference: 0.026999999999999247
 	Jarred Vanderbilt: 
 		Shots Taken: 7
-		Expected: 4.21312
+		Expected: 5.5120000000000005
 		Actual: 4
-		Difference: -0.21311999999999998
+		Difference: -1.5120000000000005
 	Walker Kessler: 
 		Shots Taken: 6
-		Expected: 4.38
+		Expected: 6.161999999999999
 		Actual: 6
-		Difference: 1.62
+		Difference: -0.16199999999999903
 
 
 
