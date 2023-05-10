@@ -1,0 +1,76 @@
+Summary for Jazz
+
+Expected Score: 119.22200000000007
+Actual Score: 121
+Difference: 1.7779999999999347
+Opponent Score: 100
+Game Outcome: Win
+Two Pointers Taken: 56
+Three Pointers Taken: 47
+Free Throws Taken: 12
+Total Shots Taken: 115
+Player Scoring: 
+	Kelly Olynyk: 
+		Shots Taken: 5
+		Expected: 6.740000000000001
+		Actual: 6
+		Difference: -0.7400000000000011
+	Lauri Markkanen: 
+		Shots Taken: 18
+		Expected: 20.9
+		Actual: 19
+		Difference: -1.8999999999999986
+	Mike Conley: 
+		Shots Taken: 9
+		Expected: 9.000999999999998
+		Actual: 7
+		Difference: -2.0009999999999977
+	Jordan Clarkson: 
+		Shots Taken: 15
+		Expected: 14.183
+		Actual: 11
+		Difference: -3.183
+	Jarred Vanderbilt: 
+		Shots Taken: 12
+		Expected: 11.917
+		Actual: 18
+		Difference: 6.083
+	Malik Beasley: 
+		Shots Taken: 19
+		Expected: 21.424
+		Actual: 21
+		Difference: -0.4239999999999995
+	Walker Kessler: 
+		Shots Taken: 12
+		Expected: 11.164
+		Actual: 11
+		Difference: -0.1639999999999997
+	Nickeil Alexander-Walker: 
+		Shots Taken: 12
+		Expected: 13.533000000000001
+		Actual: 19
+		Difference: 5.466999999999999
+	Rudy Gay: 
+		Shots Taken: 6
+		Expected: 5.606000000000001
+		Actual: 4
+		Difference: -1.6060000000000008
+	Talen Horton-Tucker: 
+		Shots Taken: 5
+		Expected: 3.7540000000000004
+		Actual: 5
+		Difference: 1.2459999999999996
+	Leandro Bolmaro: 
+		Shots Taken: 1
+		Expected: 1
+		Actual: 0
+		Difference: -1
+	Ochai Agbaji: 
+		Shots Taken: 1
+		Expected: 0
+		Actual: 0
+		Difference: 0
+
+
+
+undefined

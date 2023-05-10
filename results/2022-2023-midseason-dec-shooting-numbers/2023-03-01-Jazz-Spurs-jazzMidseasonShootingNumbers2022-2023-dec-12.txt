@@ -1,0 +1,71 @@
+Summary for Jazz
+
+Expected Score: 106.10099999999998
+Actual Score: 94
+Difference: -12.100999999999985
+Opponent Score: 102
+Game Outcome: Loss
+Two Pointers Taken: 51
+Three Pointers Taken: 34
+Free Throws Taken: 36
+Total Shots Taken: 121
+Player Scoring: 
+	Lauri Markkanen: 
+		Shots Taken: 29
+		Expected: 28.758999999999993
+		Actual: 28
+		Difference: -0.7589999999999932
+	Ochai Agbaji: 
+		Shots Taken: 8
+		Expected: 2.716
+		Actual: 9
+		Difference: 6.284
+	Talen Horton-Tucker: 
+		Shots Taken: 14
+		Expected: 12.293999999999999
+		Actual: 16
+		Difference: 3.7060000000000013
+	Kelly Olynyk: 
+		Shots Taken: 16
+		Expected: 15.503999999999998
+		Actual: 8
+		Difference: -7.503999999999998
+	Simone Fontecchio: 
+		Shots Taken: 7
+		Expected: 7.38
+		Actual: 0
+		Difference: -7.38
+	Walker Kessler: 
+		Shots Taken: 11
+		Expected: 11.648
+		Actual: 10
+		Difference: -1.6479999999999997
+	Udoka Azubuike: 
+		Shots Taken: 4
+		Expected: 2.6660000000000004
+		Actual: 2
+		Difference: -0.6660000000000004
+	Rudy Gay: 
+		Shots Taken: 12
+		Expected: 7.838000000000001
+		Actual: 7
+		Difference: -0.838000000000001
+	Kris Dunn: 
+		Shots Taken: 10
+		Expected: 9.719999999999999
+		Actual: 11
+		Difference: 1.2800000000000011
+	Johnny Juzang: 
+		Shots Taken: 7
+		Expected: 4.674
+		Actual: 3
+		Difference: -1.6740000000000004
+	Juan Toscano-Anderson: 
+		Shots Taken: 3
+		Expected: 2.9019999999999997
+		Actual: 0
+		Difference: -2.9019999999999997
+
+
+
+undefined

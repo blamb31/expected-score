@@ -1,0 +1,61 @@
+Summary for Jazz
+
+Expected Score: 85.28999999999996
+Actual Score: 98
+Difference: 12.710000000000036
+Opponent Score: 114
+Game Outcome: Loss
+Two Pointers Taken: 52
+Three Pointers Taken: 31
+Free Throws Taken: 16
+Total Shots Taken: 99
+Player Scoring: 
+	Luka Samanic: 
+		Shots Taken: 10
+		Expected: 8.598
+		Actual: 8
+		Difference: -0.5980000000000008
+	Ochai Agbaji: 
+		Shots Taken: 20
+		Expected: 6.246
+		Actual: 13
+		Difference: 6.754
+	Kelly Olynyk: 
+		Shots Taken: 16
+		Expected: 15.894000000000002
+		Actual: 16
+		Difference: 0.1059999999999981
+	Udoka Azubuike: 
+		Shots Taken: 8
+		Expected: 14
+		Actual: 12
+		Difference: -2
+	Kris Dunn: 
+		Shots Taken: 12
+		Expected: 13.297999999999998
+		Actual: 22
+		Difference: 8.702000000000002
+	Simone Fontecchio: 
+		Shots Taken: 13
+		Expected: 10.546000000000003
+		Actual: 11
+		Difference: 0.4539999999999971
+	Juan Toscano-Anderson: 
+		Shots Taken: 11
+		Expected: 7.93
+		Actual: 5
+		Difference: -2.9299999999999997
+	Damian Jones: 
+		Shots Taken: 3
+		Expected: 4.362
+		Actual: 4
+		Difference: -0.3620000000000001
+	Johnny Juzang: 
+		Shots Taken: 6
+		Expected: 4.416
+		Actual: 7
+		Difference: 2.5839999999999996
+
+
+
+undefined

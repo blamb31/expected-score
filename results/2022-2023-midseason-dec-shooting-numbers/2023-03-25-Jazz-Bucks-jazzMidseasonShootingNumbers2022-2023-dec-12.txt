@@ -1,0 +1,76 @@
+Summary for Jazz
+
+Expected Score: 122.76599999999995
+Actual Score: 116
+Difference: -6.7659999999999485
+Opponent Score: 144
+Game Outcome: Loss
+Two Pointers Taken: 64
+Three Pointers Taken: 40
+Free Throws Taken: 34
+Total Shots Taken: 138
+Player Scoring: 
+	Ochai Agbaji: 
+		Shots Taken: 13
+		Expected: 10.619
+		Actual: 6
+		Difference: -4.619
+	Simone Fontecchio: 
+		Shots Taken: 20
+		Expected: 16.328000000000003
+		Actual: 26
+		Difference: 9.671999999999997
+	Walker Kessler: 
+		Shots Taken: 8
+		Expected: 10.498
+		Actual: 7
+		Difference: -3.4979999999999993
+	Kelly Olynyk: 
+		Shots Taken: 14
+		Expected: 15.232000000000003
+		Actual: 16
+		Difference: 0.7679999999999971
+	Talen Horton-Tucker: 
+		Shots Taken: 24
+		Expected: 20.779999999999994
+		Actual: 13
+		Difference: -7.779999999999994
+	Johnny Juzang: 
+		Shots Taken: 14
+		Expected: 9.345999999999998
+		Actual: 10
+		Difference: 0.6540000000000017
+	Kris Dunn: 
+		Shots Taken: 8
+		Expected: 10.317
+		Actual: 2
+		Difference: -8.317
+	Juan Toscano-Anderson: 
+		Shots Taken: 8
+		Expected: 6.537999999999999
+		Actual: 8
+		Difference: 1.4620000000000006
+	Udoka Azubuike: 
+		Shots Taken: 11
+		Expected: 7.332000000000001
+		Actual: 9
+		Difference: 1.6679999999999993
+	Damian Jones: 
+		Shots Taken: 7
+		Expected: 8.192
+		Actual: 5
+		Difference: -3.192
+	Micah Potter: 
+		Shots Taken: 5
+		Expected: 2
+		Actual: 7
+		Difference: 5
+	Jarrell Brantley: 
+		Shots Taken: 6
+		Expected: 5.584
+		Actual: 7
+		Difference: 1.4160000000000004
+
+
+
+undefined

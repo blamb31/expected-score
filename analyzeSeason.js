@@ -8,7 +8,7 @@ const median = arr => {
 
 
 const main = async () => {
-    let startDate = new Date('2022-10-20')
+    let startDate = new Date('2021-10-20')
     let gameCount = 0;
 
     if (process.argv[3]) {
@@ -17,7 +17,6 @@ const main = async () => {
     const seasonYears = process.argv[2] || "2022-2023"
 
     const files = fs.readdirSync(`./results/${seasonYears}`);
-    console.log({ files })
 
     let totalExpected = 0;
     let totalActual = 0;
@@ -51,7 +50,6 @@ const main = async () => {
         gameCount++;
 
         const data = fs.readFileSync(`./results/${seasonYears}/${file}`, 'utf8');
-        console.log({ data })
         const dataArr = data.split('\n');
 
         const expected = parseFloat(dataArr[2].split(':')[1].trim());
